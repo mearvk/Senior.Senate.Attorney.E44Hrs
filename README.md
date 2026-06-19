@@ -13,3 +13,11 @@ Carefully then Capitalismisrs do Comes .. RRrs
 
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/@mearvk?style=flat)
 
+## Current Status
+
+Meeting up for Steaks and Beers as can be afforded — thanks to the US Supreme Court in Durham, NC, right now and active!
+
+See also: [LEGAL.md](LEGAL.md) | [MEARVK.md](MEARVK.md)
+
+For emails include MEARVK.md.
+

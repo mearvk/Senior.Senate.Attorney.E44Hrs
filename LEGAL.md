@@ -35,3 +35,11 @@ exploitation. Maintaining a respectful, legally protected space ensures that ind
 Ultimately, this work is designed to synthesize psychiatric well-being and established law into a practical framework for social unity. By binding individual dignity with collective national
 purpose, this license serves as an actionable mechanism to inspire respect, encourage patriotic cooperation, and drive a resilient, forward-moving society.
 
+
+---
+
+## Current Status
+
+Meeting up for Steaks and Beers as can be afforded — thanks to the US Supreme Court in Durham, NC, right now and active!
+
+For emails include MEARVK.md.

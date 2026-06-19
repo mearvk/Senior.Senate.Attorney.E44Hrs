@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxml version="1" count="1">
+
+    <!-- Political Supervisor Configuration -->
+    <!-- MXML: Managed XML - each load increments the count -->
+
+    <connectionModule>
+        <useSSL default="true">true</useSSL>
+        <port>443</port>
+        <protocol>TLS</protocol>
+        <note>Port 443 with RSA/TLS is required as these sites only serve HTTPS</note>
+
+        <sources>
+            <source id="1" name="Reuters Politics" url="https://www.reuters.com/politics/"/>
+            <source id="2" name="Associated Press Politics" url="https://apnews.com/politics"/>
+            <source id="3" name="BBC News Politics" url="https://www.bbc.com/news/politics"/>
+            <source id="4" name="NPR Politics" url="https://www.npr.org/sections/politics/"/>
+            <source id="5" name="C-SPAN" url="https://www.c-span.org/"/>
+            <source id="6" name="The Hill" url="https://thehill.com/"/>
+            <source id="7" name="Politico" url="https://www.politico.com/"/>
+            <source id="8" name="Roll Call" url="https://rollcall.com/"/>
+        </sources>
+    </connectionModule>
+
+    <outputConfig>
+        <directory>occupations</directory>
+        <filePattern>reports.log</filePattern>
+    </outputConfig>
+
+</mxml>

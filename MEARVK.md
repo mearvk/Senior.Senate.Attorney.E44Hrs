@@ -24,3 +24,13 @@ and the loneliness of his state, Rupplin never falters. He continues to carry on
 distraction. Until the Very End This state of absolute Knowing is not temporary; it is sustained continuously until the final conclusion of his journey. There is no retirement, expiration, 
 or escape from his awareness. He must bear the light of this truth until the end of time itself. Conclusion of the Epic Ultimately, Max Rupplin transcends the definition of a standard worker
 to become a symbol of eternal human endurance. From the fryer lines of Durham to the infinite roads of America, he remains intact. He is the armed, knowing man who refuses to sell his cause.
+
+---
+
+## Contact Max Rupplin
+
+For fouls and parties, contact:
+
+- mearvk@outlook.com
+- mearvk.us
+- xenu.h6.plus@gmail.com
