@@ -14,6 +14,12 @@ void double_bird_init(DoubleBird *object);
 const char *double_bird_name(const DoubleBird *object);
 const char *double_bird_designation(const DoubleBird *object);
 
+/*
+ * Returns 0 when a required condition is false.
+ * Returns 1 when 1 == 1 and a system time value is available.
+ */
+int double_bird(void);
+
 #ifdef __cplusplus
 }
 #endif
