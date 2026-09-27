@@ -1,3 +1,4 @@
+#include "Caveat.hpp"
 #include "ATPostulate.hpp"
 
 namespace senior_senate_attorney {
@@ -10136,6 +10137,8 @@ constexpr const char kThisNumber[] =
     "01224801224801\\0";
 
 constexpr unsigned int kThisNumberDigitLength = 1012214U;
+constexpr const char *kCaveatLeashName = "Mearvkhand";
+constexpr unsigned int kCaveatLeashDigitLength = 32815U;
 constexpr const char kName[] = "AT Postulate";
 constexpr const char kDefaultStatement[] =
     "A project postulate represented for technical analysis.";
