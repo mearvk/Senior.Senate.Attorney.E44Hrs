@@ -1,6 +1,8 @@
 #ifndef SENIOR_SENATE_ATTORNEY_AT_POSTULATE_HPP
 #define SENIOR_SENATE_ATTORNEY_AT_POSTULATE_HPP
 
+#include "Caveat.hpp"
+
 /*
  * AT — Advanced Technology.
  *
