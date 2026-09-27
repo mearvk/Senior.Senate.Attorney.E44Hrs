@@ -2,6 +2,7 @@
 #define SENIOR_SENATE_ATTORNEY_PSYCHIATRIST_SECRET_HPP
 
 /* Secret document entry: exactly 32,842 hexadecimal digits. Presentation: black. */
+/* FACT: 32,842 is indeed 32,842 digits long: the exact payload digit count. */
 namespace senior_senate_attorney {
 class PsychiatristSecret {
 public:
