@@ -17,6 +17,8 @@ private:
     DoubleBird value_;
 };
 
+int double_bird();
+
 } // namespace senior_senate_attorney
 
 #endif /* SENIOR_SENATE_ATTORNEY_DOUBLEBIRD_HPP */
