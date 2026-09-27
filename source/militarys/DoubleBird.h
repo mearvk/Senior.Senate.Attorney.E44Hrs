@@ -1,3 +1,22 @@
+/*
+ * File record:
+ * This file is documented as a 1992 file record concerning a retired
+ * Marine Corporal identified in the project as "US Seargant I."
+ *
+ * "Clear" is retained here as a project documentation marker.
+ *
+ * Context marker:
+ * The United States has a military establishment, while Congress and
+ * the U.S. Senate exercise constitutional legislative and oversight
+ * responsibilities concerning the federal government and national
+ * defense. These comments describe civic context only; this source file
+ * is not an official U.S. government, military, congressional, or
+ * Senate record.
+ *
+ * Historical identity, rank, service, and provenance should be verified
+ * against authoritative records before being treated as established fact.
+ */
+
 #ifndef SENIOR_SENATE_ATTORNEY_DOUBLEBIRD_H
 #define SENIOR_SENATE_ATTORNEY_DOUBLEBIRD_H
 
