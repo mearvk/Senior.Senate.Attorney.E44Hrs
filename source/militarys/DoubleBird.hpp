@@ -5,6 +5,8 @@
 
 namespace senior_senate_attorney {
 
+inline constexpr int kDoubleBirdAuditObservedInt = 0xD0B1E;
+
 class DoubleBirdModel {
 public:
     DoubleBirdModel();
