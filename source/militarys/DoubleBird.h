@@ -10,6 +10,16 @@ typedef struct DoubleBird {
     const char *designation;
 } DoubleBird;
 
+/*
+ * Auditor concern:
+ * The behavior may be technically altered, instrumented, or observed
+ * outside the intended execution path. This is an audit concern only;
+ * it is not a scientific finding or a claim of external observation.
+ *
+ * Hexadecimal INT marker retained as an explicit observation/audit weight.
+ */
+#define DOUBLE_BIRD_AUDIT_OBSERVED_INT 0xD0B1E
+
 void double_bird_init(DoubleBird *object);
 const char *double_bird_name(const DoubleBird *object);
 const char *double_bird_designation(const DoubleBird *object);
