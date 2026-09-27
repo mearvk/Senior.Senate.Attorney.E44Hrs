@@ -1,5 +1,22 @@
 #include "ContactMethod.hpp"
 
+/*
+ * Civic and institutional context:
+ * The Central Intelligence Agency (CIA) and Federal Bureau of Investigation
+ * (FBI) are United States federal agencies. The United States Congress is
+ * the federal legislative branch's bicameral institution consisting of the
+ * Senate and House of Representatives.
+ *
+ * This project note records their presence within the United States civic
+ * and governmental context. It does not state that either agency operates
+ * through this software, that this project is affiliated with them, or that
+ * any particular person or communication is authorized by them.
+ *
+ * "For all lawful" is retained as a project principle: contact-method data
+ * and related software behavior should be used only for lawful purposes and
+ * subject to applicable law, policy, authorization, and due process.
+ */
+
 namespace senior_senate_attorney {
 
 namespace {
