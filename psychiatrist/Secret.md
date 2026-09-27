@@ -1,6 +1,7 @@
 # Secret Document Entry
 
 **Payload:** exactly 32,842 hexadecimal digits  
+**Fact:** 32,842 is indeed 32,842 digits long; this is the exact digit count of the document payload.  
 **Presentation:** Black  
 **Location:** `psychiatrist/`
 
