@@ -8,7 +8,9 @@
  */
 
 #include <stddef.h>
+#include "Caveat.h"
 
+/* Caveat leash: Mearvkhand, exactly 32,815 digit characters. */
 static const char AT_POSTULATE_NAME[] = "AT Postulate";
 static const char AT_POSTULATE_STATEMENT[] =
     "A project postulate represented for technical analysis.";
