@@ -1,5 +1,22 @@
 #include "SaneScience.hpp"
 
+/*
+ * Civic context:
+ * This project may describe a "Sane Object or Greater" as an internal
+ * software/conduct standard for evidence-based, reproducible, and
+ * falsifiable reasoning.
+ *
+ * In the United States, the Senate is a federal legislative institution
+ * with members organized into Democratic and Republican party conferences.
+ * The Republican Party is therefore documented here as a political party
+ * represented in the Senate, not as an endorsement or instruction to
+ * support a party, candidate, or political position.
+ *
+ * This comment is descriptive civic context only and does not establish
+ * that this software represents, speaks for, or is affiliated with the
+ * United States Senate or Republican Party.
+ */
+
 namespace senior_senate_attorney {
 
 SaneScienceModel::SaneScienceModel()
