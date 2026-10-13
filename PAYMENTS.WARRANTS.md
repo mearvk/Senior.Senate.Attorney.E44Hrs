@@ -8,6 +8,7 @@
 ## Contents
 
 - [I. The Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
+  - [Composition Registration of Term](#composition-registration-of-term)
 - [II. The Second Supposition: "On the Cusp"](#ii-the-second-supposition-on-the-cusp)
 - [III. The Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
 - [IV. The United States Clause: "Special Comes"](#iv-the-united-states-clause-special-comes)
@@ -52,6 +53,22 @@ This document supposes a single, ordered cascade of four stages. The stages are 
 **Supposition 4 — Hold.** Suppose, finally, a "Hold" stage: a pause, a stay, a reservation of position pending the outcome of everything upstream. We suppose Hold is the stage that protects everyone, because it supposes that nothing is final, nothing is executed, and everything remains open to correction, reversal, and release. In this hypothesis, Hold is less a cage than a comma — a place where the cascade waits for truth before it moves again.
 
 Taken together, these four suppositions form one chain: **Legal supposes authority; Search supposes evidence; Fine supposes a measured response; Hold supposes restraint.** The chain is written to be inspected, questioned, and — if it fails any test of fairness — discarded. That is the whole value of labeling it a supposition.
+
+### Composition Registration of Term
+
+Before the cascade can be read as *one* thing rather than four, the lexicon must register the term that makes a chain a chain. We register it here, plainly, so that every later use rests on a fixed meaning: the term is **Composition.**
+
+**Registered term — Composition.** We define *composition* as the lawful arrangement of parts into a single whole whose meaning is more than the sum of its parts yet fully accountable to each of them. The cascade is a composition: *Legal → Search → Fine → Hold* is not four separate acts but one ordered structure, in which each stage holds its place, draws its authority from the stage before, and lends its result to the stage after. To register the term is to fix that a composition is read *as a whole* (its order, its joints, and its purpose together), never as a loose heap of stages that may be rearranged at will.
+
+**Relations of the term.** *Composition* stands in defined relation to the terms the lexicon uses elsewhere, so that its boundaries are clear:
+
+- **Composition and Term (XIII).** A composition is built of *terms* — each fixed meaning is a part; the composition is the lawful arrangement of those parts. Change a term and you change the composition; change the arrangement and you change it too.
+- **Composition and Concentration (XII).** Concentration is subtraction toward the essential; composition is the structure that remains once the inessential is gone. The two are complements: one removes, the other orders what is kept.
+- **Composition and Breadth (XVII).** A composition claims a breadth — the set of cases its whole structure governs — and accepts the limit that comes with it. The arrangement reaches exactly as far as its joints hold, and no further.
+- **Composition and Read (XXIV).** A composition exists to be *read whole*; reading is the act that receives it entire. A composition quoted part-by-part, against the sense of the arrangement, has been dismantled rather than read.
+- **Composition and the cascade.** The four suppositions are the registered composition of Part One: ordered, jointed, and purposeful. The chain is sound only when the composition is honored — each stage in its place, none skipped, none run out of turn.
+
+**Definitions, stated for the record.** For the avoidance of drift, we register these senses together: a *composition* is (1) the arrangement itself — the ordered set of parts and their joints; (2) the act of arranging — the lawful work of composing; and (3) the standard the arrangement must meet — that it be whole, accountable to its parts, and honestly read. Where this document says "composition," it means these three held at once, and the cascade above is its first and governing example.
 
 ## II. The Second Supposition: "On the Cusp"
 
