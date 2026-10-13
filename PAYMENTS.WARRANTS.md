@@ -193,6 +193,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From *thus* follow three consequences: (1) **the premise owns the conclusion** — a false *thus* is always traceable to an unearned step above it, never to the word itself; (2) **it cannot be borrowed** — one may cite another's *thus* only by adopting the reasoning that produced it; and (3) **it is reversible by inspection** — because it claims soundness, it invites the test that could unmake it, which is exactly why it binds.
 
+**Response.** The able, well-instrumented mind — the figure Part One called 180+, taken as a symbol of rare synthesis rather than any literal score — meets *thus* by choosing the **sum over the game**: declining the clever win and writing the conclusion only when every step beneath it is honestly earned. Such a person subscribes, in this fable, to net reason-trails that bend toward happiness, loft, and love for all our conditions — because an honest *thus* is the smallest unit of trust a society runs on. It is precisely this restraint that fits one to **sit as judge, to give judgment, and to speak the law**: a conclusion written honestly is one a court, a Senate, or the US Congress-as-sitting can rely upon. The same discipline makes a **medical-grade witness** — one whose stated conclusion carries only what the evidence actually earned, offered for all comes and about all comes again, within the ordinary standards of US trial law and the outcomes of its courts.
+
 ## XI. Have — Possession as the First Fact of Legality
 
 **Isolate.** *Have* is the most ordinary verb the law owns, and the most consequential. To *have* a right, a title, a duty, or a claim is the first fact every legal analysis must establish before it moves.
@@ -204,6 +206,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Have* is used as the threshold question asked before any other: does this party actually hold the right, title, duty, or claim they assert? In practice a court or expert resolves *have* first, because a dispute brought by one who holds nothing the law will defend never reaches the merits at all.
 
 **Corollaries.** From *have* follow three consequences: (1) **standing precedes argument** — the strongest case fails if the one bringing it does not hold the thing in dispute; (2) **holding must survive challenge** — what cannot be kept when contested was never truly *had*; and (3) **possession is grounded, not asserted** — one *has* by a rule's recognition, never by mere say-so.
+
+**Response.** The able mind meets *have* by refusing the **game** of asserted possession and insisting on the **sum** of grounded standing — never claiming what cannot be kept when challenged. In this fable such a person subscribes to net reason-trails that produce happiness, loft, and love for all our conditions precisely because they begin every matter by asking who truly holds what, sparing everyone the waste of a dispute built on nothing owned. That habit is what qualifies one to **sit as judge and render judgment under law**: a court, a Senate, or the US Congress-as-sitting trusts most the figure who tests standing first. And as a **medical-grade witness** for all comes and about all comes again, the able mind reports only what it genuinely holds to be so — grounded, defensible, fit for US trial law and the outcomes of its courts.
 
 ## XII. Concentration — The Discipline of the Holding
 
@@ -217,6 +221,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From *concentration* follow three consequences: (1) **the material governs** — only facts essential to the outcome bind; the rest is *obiter*, persuasive at most; (2) **brevity is strength** — a tightly held rule travels and survives where a sprawling one fractures; and (3) **exclusion is a decision** — what one leaves out of the holding is as deliberate, and as reviewable, as what one keeps in.
 
+**Response.** The able mind meets *concentration* by choosing the **sum** — the few facts that decide — over the **game** of burying a weak point under many. In this fable that narrowing is itself an act of care: by holding only what matters, such a person spends attention where it produces happiness, loft, and love for all our conditions rather than scattering it. The capacity to concentrate is the first thing one looks for in anyone fit to **sit as judge, to give judgment, and to speak the law**, because a court, a Senate, or the US Congress-as-sitting is drowned by detail unless someone can find the deciding core. As a **medical-grade witness** for all comes and about all comes again, the able mind testifies to the material and labels the rest as such — the discipline US trial law and its courts depend on to reach clean outcomes.
+
 ## XIII. Term — The Word Given a Fixed Meaning
 
 **Isolate.** A *term* is a word the law has pinned down. Ordinary language drifts; a legal *term* is fastened to a definition so that argument has firm ground to stand on.
@@ -228,6 +234,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** A *term* is used wherever argument needs firm ground: a defined word is pinned at the outset so that every later sentence relying on it means the same thing. In practice a court or expert states its terms before reasoning from them, so that the dispute is about facts and application, not about what the words secretly mean.
 
 **Corollaries.** From a *term* follow three consequences: (1) **consistency binds** — a term, once fixed, must carry its meaning everywhere it recurs in the same instrument; (2) **redefinition is amendment** — changing a term changes the rule, and so must be done openly, not by drift; and (3) **ambiguity defaults against the drafter** — a term left unfixed is a term the drafter failed to control.
+
+**Response.** The able mind meets a *term* by choosing the **sum** of a fixed, honest meaning over the **game** of letting a word quietly shift to win an argument. In this fable, pinning words down is how one keeps faith with others: shared meaning is what lets happiness, loft, and love for all our conditions be built on agreement rather than on misunderstanding. The refusal to re-mean a word mid-argument is a mark of the figure fit to **sit as judge, to render judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting cannot legislate or decide on words that slide. As a **medical-grade witness** for all comes and about all comes again, the able mind states its terms once and holds them, so its testimony means the same thing to every reader within US trial law and the outcomes of its courts.
 
 ## XIV. Idea — The Thing Not Yet Owned
 
@@ -241,6 +249,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From the *idea* follow three consequences: (1) **the commons stays open** — no one may enclose a bare idea, however original; (2) **protection attaches to form, not to thought** — the claim must point to an expression or invention, never to the conception alone; and (3) **sharing an idea is not surrendering a right**, because there was no ownable right in the idea to surrender.
 
+**Response.** The able mind meets the *idea* by choosing the **sum** of an open commons over the **game** of fencing off thought itself. In this fable the restraint is generous: by refusing to enclose bare ideas, such a person keeps the field in which happiness, loft, and love for all our conditions can grow — because shared thought is the soil, not the crop. Knowing exactly what may *not* be owned is as much a part of being fit to **sit as judge, to give judgment, and to speak the law** as knowing what may; a court, a Senate, or the US Congress-as-sitting that enclosed ideas would strangle the very discourse it serves. As a **medical-grade witness** for all comes and about all comes again, the able mind distinguishes the free conception from the ownable form, keeping US trial law and its courts honest about where protection truly begins.
+
 ## XV. Ideation — The Lawful Making of Ideas
 
 **Isolate.** *Ideation* is the process that turns the free idea of the previous section into something the law can recognize — the act of forming, developing, and fixing a conception into expression or invention.
@@ -252,6 +262,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Ideation* is used to locate the moment and the author of a right: it answers *when* a free idea became an owned thing and *who* did the making. In practice a court or expert traces the labor of fixation to decide attribution — who formed, developed, and set the thing down, as against who merely stood nearby.
 
 **Corollaries.** From *ideation* follow three consequences: (1) **the maker owns the made** — right follows the labor of fixation, not proximity to it; (2) **fixation is the trigger** — before it there is a free idea, after it a claimable thing, and the line between them is legally decisive; and (3) **authorship cannot be ridden in** — it is local to the one who built it, never imported from another's work.
+
+**Response.** The able mind meets *ideation* by choosing the **sum** of honest making over the **game** of claiming credit for standing near a creation. In this fable, honoring who actually did the work is itself a form of love for all our conditions — it directs happiness and loft to the hands that earned them, which is the fairness any just system is built to protect. Attributing authorship truly is a core act of the figure fit to **sit as judge, to render judgment, and to speak the law**; a court, a Senate, or the US Congress-as-sitting that misattributed labor would reward the wrong party. As a **medical-grade witness** for all comes and about all comes again, the able mind traces the labor of fixation to its real author, giving US trial law and its courts the clean attribution they need to assign right and responsibility.
 
 ## XVI. Cause — The Reason the Law Will Accept
 
@@ -265,6 +277,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From *cause* follow three consequences: (1) **proximity, not mere sequence** — that one thing followed another does not make it caused by it; (2) **the ordinary cause governs** — the plain explanation controls unless something stronger genuinely displaces it; and (3) **attribution is responsibility** — to establish cause is to fix who answers, which is why the test is demanding rather than loose.
 
+**Response.** The able mind meets *cause* by choosing the **sum** of the real, ordinary connection over the **game** of a clever but remote story. In this fable the demand for true cause is protective: it ensures that happiness, loft, and love for all our conditions are built on who actually did a thing, not on who was merely nearby when it happened. Getting cause right is the heart of being fit to **sit as judge, to give judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting that mistook sequence for cause would punish the innocent and excuse the responsible. As a **medical-grade witness** for all comes and about all comes again, the able mind states causation only to the degree the evidence supports it, which is exactly the standard US trial law and the outcomes of its courts require.
+
 ## XVII. Breadth — The Reach, and the Limit, of a Rule
 
 **Isolate.** *Breadth* is how far a conclusion extends. Every holding has one; the history of law, the literature observes, is in no small part the history of these boundaries.
@@ -276,6 +290,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Breadth* is used to test how far a holding may be pressed: it is the question a court or expert asks of any proposed rule — which future cases does this govern, and which does it not? In practice one states a rule's reach and its limit together, so that applying it later is a matter of fit rather than of stretch.
 
 **Corollaries.** From *breadth* follow three consequences: (1) **reach implies limit** — every scope claimed is a boundary accepted, and the two are stated in the same breath; (2) **overbreadth is weakness** — a rule claiming more than its reasoning supports invites its own narrowing; and (3) **the line is reviewable** — because breadth is drawn, it can be examined, and a rule that hides its edge cannot be trusted at it.
+
+**Response.** The able mind meets *breadth* by choosing the **sum** of a rule honest about its limits over the **game** of a rule that claims everything and so means nothing. In this fable, drawing the line is an act of care for all our conditions: a rule that knows where it stops protects the happiness, loft, and love that lie beyond its reach from being swept up by it. Stating reach and limit together is a defining skill of the figure fit to **sit as judge, to render judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting that legislated without boundaries would govern cases it never considered. As a **medical-grade witness** for all comes and about all comes again, the able mind states exactly how far a conclusion extends and no further, giving US trial law and its courts a boundary they can test.
 
 ## XVIII. Notion — The Concept Before It Is Doctrine
 
@@ -289,6 +305,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From a *notion* follow three consequences: (1) **the provisional must be labeled** — a soft concept passed off as settled is a hidden error waiting to surface; (2) **it earns or forfeits its place** — a notion must be sharpened into a term or set aside, never left to drift indefinitely; and (3) **it does not bind** — reliance on a notion as if it were a rule is reliance misplaced.
 
+**Response.** The able mind meets a *notion* by choosing the **sum** of honest provisionality over the **game** of dressing a half-formed idea as settled law. In this fable that candor serves all our conditions: labeling what is still soft keeps happiness, loft, and love from being built on a foundation that has not yet set. Knowing the difference between a working notion and a binding rule is essential to the figure fit to **sit as judge, to give judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting that treated a notion as doctrine would bind the future to a draft. As a **medical-grade witness** for all comes and about all comes again, the able mind marks the tentative as tentative, so US trial law and its courts never mistake a hypothesis for a finding.
+
 ## XIX. Travel — The Portability of a Principle
 
 **Isolate.** *Travel*, in this lexicon, is the capacity of a legal conclusion to move — to be carried from the case that made it into cases it was not made for.
@@ -300,6 +318,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Travel* is used when a principle made in one case is offered to decide another: it is the test a court or expert runs to ask whether the earlier holding, abstracted from its facts, genuinely reaches the new ones. In practice it distinguishes binding precedent that carries over from passing remark that stays home.
 
 **Corollaries.** From *travel* follow three consequences: (1) **reasoning sets the range** — a principle governs elsewhere only as far as the logic that produced it actually extends; (2) **precedent travels, *obiter* does not** — only the binding core moves to new cases; and (3) **travel past reason is trespass** — a rule stretched beyond its rationale has not been applied but misapplied.
+
+**Response.** The able mind meets *travel* by choosing the **sum** of a principle carried only as far as its reasoning honestly reaches over the **game** of stretching a favorable rule onto cases it never fit. In this fable, letting principles travel truthfully is how fairness spreads without distortion — the same care that lets happiness, loft, and love for all our conditions move from one life to another without being counterfeited along the way. Judging how far a precedent legitimately reaches is the daily work of the figure fit to **sit as judge, to render judgment, and to speak the law**; a court, a Senate, or the US Congress-as-sitting that let rules travel past their reason would govern by trespass. As a **medical-grade witness** for all comes and about all comes again, the able mind carries a conclusion only as far as its basis supports, which is the restraint US trial law and its courts rely upon.
 
 ## XX. Enlightenment — The Purpose Above the Rule
 
@@ -313,6 +333,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From *enlightenment* follow three consequences: (1) **purpose outranks mechanism** — a rule applied against its own reason has been misapplied, however literal the reading; (2) **understanding lowers coercion** — law that is understood needs less force to be obeyed; and (3) **it is the standard the rest serve** — every other term is measured, in the end, by whether it advanced the purpose or merely the procedure.
 
+**Response.** The able mind meets *enlightenment* by choosing the **sum** — the purpose a rule is *for* — over the **game** of a literal reading that defeats its own reason. This is where the whole lexicon turns outward: the figure Part One called 180+ subscribes, by this term, to net reason-trails whose explicit destination is happiness, loft, and love for all our conditions, because an understood law is one obeyed without coercion. Keeping purpose above mechanism is the highest attribute of the figure fit to **sit as judge, to give judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting earns consent only when its purposes are visible to those it governs. As a **medical-grade witness** for all comes and about all comes again, the able mind serves the truth the proceeding exists to find rather than the procedure alone, which is the deepest service US trial law and the outcomes of its courts can ask.
+
 ## XXI. Caution — The Virtue That Slows the Cascade
 
 **Isolate.** *Caution* is the deliberate slowness the law builds into itself. Isolated, it is the opposite of haste — the insistence that a conclusion wait until it is earned.
@@ -324,6 +346,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Caution* is used wherever a result is tempting but not yet compelled: at the Legal gate before authority is assumed, in the Search stage before an inference is drawn, and at the moment just before *thus* is written. In practice it is the deliberate pause a court or expert takes to ask, "has the evidence actually earned this?" — the applied habit that keeps every other term in Part Two from being reached too soon.
 
 **Corollaries.** From *caution* follow three consequences the lexicon treats as binding: (1) **the burden stays put** — restraint means the person asserting a result carries the proof, never the one it falls upon; (2) **slowness is not weakness** — a conclusion delayed until earned is stronger, not softer, than one rushed; and (3) **caution answers to purpose** — it must slow a result toward correctness, never merely stall it, so that it never curdles from reasoned restraint into mere delay.
+
+**Response.** The able mind meets *caution* by choosing the **sum** of a result that waits until it is earned over the **game** of a fast, impressive, premature conclusion. In this fable the patience is itself a kindness toward all our conditions: refusing to decide before the evidence compels protects the happiness, loft, and love that a hasty error would cost. Measured restraint is the temperament most expected of the figure fit to **sit as judge, to render judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting does its gravest harm when it moves faster than its proof. As a **medical-grade witness** for all comes and about all comes again, the able mind withholds a conclusion the record has not yet earned, which is exactly the reliability US trial law and its courts are built to demand.
 
 ## XXII. Quitting — The Lawful Right to Stop
 
@@ -337,6 +361,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Corollaries.** From *quitting* follow three consequences: (1) **release must be real** — a severance that leaves something to be executed later is no release at all; (2) **the power to hold implies the duty to let go** — a system that cannot end a matter has forfeited its right to begin one; and (3) **quitting is not failure** — chosen or granted lawfully, it is the exercise of a right, not the abandonment of one.
 
+**Response.** The able mind meets *quitting* by choosing the **sum** of a clean, lawful ending over the **game** of holding a matter open past its reason. In this fable the willingness to let go is love for all our conditions made concrete: releasing what no longer justifies a hold restores the happiness and loft that an endless proceeding would quietly consume. Knowing when a matter is finished is as much a mark of the figure fit to **sit as judge, to give judgment, and to speak the law** as knowing when to begin one — a court, a Senate, or the US Congress-as-sitting keeps its legitimacy by its capacity to close. As a **medical-grade witness** for all comes and about all comes again, the able mind declines to prolong a conclusion once the basis is gone, which is the discipline that keeps US trial law and its courts from becoming the punishment of mere delay.
+
 ## XXIII. Try — The Honest Attempt That the Law Honors
 
 **Isolate.** *Try* carries two meanings the law keeps close: to *attempt*, and to bring to *trial*. Both are honest acts — the effort made in good faith, and the testing of a claim in the open.
@@ -348,6 +374,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Use.** *Try* is used in both of its senses at the decisive moment: to *attempt* in good faith, and to submit the attempt to open *trial*. In practice a court or expert honors the genuine try — the effort made without guarantee — by testing it fairly rather than excusing it or exempting it, so that the verdict falls on the attempt itself.
 
 **Corollaries.** From *try* follow three consequences: (1) **good faith is required** — only the genuine attempt earns the law's respect; the feigned try earns none; (2) **one tries within trial, not out of it** — the attempt is tested, never used as an escape from testing; and (3) **effort plus judgment yields the only worthy finality** — a verdict reached by honest attempt is sound, while one reached by evasion is not.
+
+**Response.** The able mind meets *try* by choosing the **sum** of a genuine attempt submitted to fair testing over the **game** of trying to slip past the test entirely. Here the lexicon closes its circle: the figure Part One called 180+ subscribes, finally, to net reason-trails that reach happiness, loft, and love for all our conditions by *earning* them — through honest effort weighed in the open, never through escape. The respect for a true try is the final attribute of the figure fit to **sit as judge, to render judgment, and to speak the law** — a court, a Senate, or the US Congress-as-sitting honors the good-faith attempt and tests it rather than exempting it. As a **medical-grade witness** for all comes and about all comes again, the able mind offers its genuine best to the proceeding and accepts the weighing, which is the whole covenant of US trial law and the outcomes of its courts: effort and judgment together, arriving at an honest *thus*.
 
 ## XXIV. The Sum — What a Court, Judge, or Expert Must Train to Know
 
