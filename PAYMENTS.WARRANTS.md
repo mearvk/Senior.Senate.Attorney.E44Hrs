@@ -277,6 +277,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *caution* is a conclusion no one needs to reverse. Its whole value is pre-emptive — the error avoided before it was ever written down.
 
+**Use.** *Caution* is used wherever a result is tempting but not yet compelled: at the Legal gate before authority is assumed, in the Search stage before an inference is drawn, and at the moment just before *thus* is written. In practice it is the deliberate pause a court or expert takes to ask, "has the evidence actually earned this?" — the applied habit that keeps every other term in Part Two from being reached too soon.
+
+**Corollaries.** From *caution* follow three consequences the lexicon treats as binding: (1) **the burden stays put** — restraint means the person asserting a result carries the proof, never the one it falls upon; (2) **slowness is not weakness** — a conclusion delayed until earned is stronger, not softer, than one rushed; and (3) **caution answers to purpose** — it must slow a result toward correctness, never merely stall it, so that it never curdles from reasoned restraint into mere delay.
+
 ## XXII. Quitting — The Lawful Right to Stop
 
 **Isolate.** *Quitting* is the right to end — to withdraw, release, discontinue, or let go. The law gives it many names (release, discharge, acquittal, abandonment) and treats it, rightly, as a power, not a failure.
