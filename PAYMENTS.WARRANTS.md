@@ -189,6 +189,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *thus* is total and conditional at once — total, because after it the court has spoken; conditional, because a false premise makes a false *thus*. The lexicon's first rule, then: never write *thus* over reasoning you have not actually done.
 
+**Use.** *Thus* is used only at the end — placed where reasons stop and a holding begins, never earlier. In practice a court or expert earns the right to write it by first completing every prior term: standing established, facts concentrated, cause traced, breadth measured. It is the signal to a reader that the inference below it is load-bearing and may be relied upon.
+
+**Corollaries.** From *thus* follow three consequences: (1) **the premise owns the conclusion** — a false *thus* is always traceable to an unearned step above it, never to the word itself; (2) **it cannot be borrowed** — one may cite another's *thus* only by adopting the reasoning that produced it; and (3) **it is reversible by inspection** — because it claims soundness, it invites the test that could unmake it, which is exactly why it binds.
+
 ## XI. Have — Possession as the First Fact of Legality
 
 **Isolate.** *Have* is the most ordinary verb the law owns, and the most consequential. To *have* a right, a title, a duty, or a claim is the first fact every legal analysis must establish before it moves.
@@ -196,6 +200,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *have* as settled possession recognized by a rule — not mere holding, but holding the law will defend. One *has* only what one can keep when challenged.
 
 **Finality.** The finality of *have* is the finality of standing: without it, nothing downstream proceeds, exactly as the cascade's Legal gate supposed. Possession, lawfully grounded, is where legality begins.
+
+**Use.** *Have* is used as the threshold question asked before any other: does this party actually hold the right, title, duty, or claim they assert? In practice a court or expert resolves *have* first, because a dispute brought by one who holds nothing the law will defend never reaches the merits at all.
+
+**Corollaries.** From *have* follow three consequences: (1) **standing precedes argument** — the strongest case fails if the one bringing it does not hold the thing in dispute; (2) **holding must survive challenge** — what cannot be kept when contested was never truly *had*; and (3) **possession is grounded, not asserted** — one *has* by a rule's recognition, never by mere say-so.
 
 ## XII. Concentration — The Discipline of the Holding
 
@@ -205,6 +213,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *concentration* is a rule small enough to carry and strong enough to bind. A conclusion that concentrates survives; one that sprawls dissolves on appeal.
 
+**Use.** *Concentration* is used in the sorting of a record: the deliberate separation of the facts that decide from the facts that merely accompany. In practice a court or expert applies it to find the holding inside a long opinion and the signal inside a crowded brief — reducing the many to the few that actually carry the result.
+
+**Corollaries.** From *concentration* follow three consequences: (1) **the material governs** — only facts essential to the outcome bind; the rest is *obiter*, persuasive at most; (2) **brevity is strength** — a tightly held rule travels and survives where a sprawling one fractures; and (3) **exclusion is a decision** — what one leaves out of the holding is as deliberate, and as reviewable, as what one keeps in.
+
 ## XIII. Term — The Word Given a Fixed Meaning
 
 **Isolate.** A *term* is a word the law has pinned down. Ordinary language drifts; a legal *term* is fastened to a definition so that argument has firm ground to stand on.
@@ -212,6 +224,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define a *term* as a concept assigned fixed meaning for the purpose of a rule — a building block of doctrine, stipulated once so it means the same thing every time it recurs.
 
 **Finality.** The finality of a *term* is definitional closure: once fixed, it may be applied but not quietly re-meant. To change the term is to change the law, openly, not to smuggle a new sense into an old word.
+
+**Use.** A *term* is used wherever argument needs firm ground: a defined word is pinned at the outset so that every later sentence relying on it means the same thing. In practice a court or expert states its terms before reasoning from them, so that the dispute is about facts and application, not about what the words secretly mean.
+
+**Corollaries.** From a *term* follow three consequences: (1) **consistency binds** — a term, once fixed, must carry its meaning everywhere it recurs in the same instrument; (2) **redefinition is amendment** — changing a term changes the rule, and so must be done openly, not by drift; and (3) **ambiguity defaults against the drafter** — a term left unfixed is a term the drafter failed to control.
 
 ## XIV. Idea — The Thing Not Yet Owned
 
@@ -221,6 +237,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of an *idea* is its freedom: it remains common until it is given a lawful form. This is a conclusion of restraint — the law declining to enclose the commons of thought.
 
+**Use.** The *idea* is used as a boundary marker: it tells a court or expert where protection does *not* yet reach. In practice one invokes it to separate the unownable conception from the ownable expression or invention — refusing a claim that tries to fence off thought itself rather than any particular made thing.
+
+**Corollaries.** From the *idea* follow three consequences: (1) **the commons stays open** — no one may enclose a bare idea, however original; (2) **protection attaches to form, not to thought** — the claim must point to an expression or invention, never to the conception alone; and (3) **sharing an idea is not surrendering a right**, because there was no ownable right in the idea to surrender.
+
 ## XV. Ideation — The Lawful Making of Ideas
 
 **Isolate.** *Ideation* is the process that turns the free idea of the previous section into something the law can recognize — the act of forming, developing, and fixing a conception into expression or invention.
@@ -228,6 +248,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *ideation* as the lawful making of ideas: the labor by which a free notion becomes an owned thing, and so becomes capable of right, duty, and attribution.
 
 **Finality.** The finality of *ideation* is the moment of fixation — when the made thing crosses from common to claimable. Authorship, as Part One supposed, is local to the one who did the making.
+
+**Use.** *Ideation* is used to locate the moment and the author of a right: it answers *when* a free idea became an owned thing and *who* did the making. In practice a court or expert traces the labor of fixation to decide attribution — who formed, developed, and set the thing down, as against who merely stood nearby.
+
+**Corollaries.** From *ideation* follow three consequences: (1) **the maker owns the made** — right follows the labor of fixation, not proximity to it; (2) **fixation is the trigger** — before it there is a free idea, after it a claimable thing, and the line between them is legally decisive; and (3) **authorship cannot be ridden in** — it is local to the one who built it, never imported from another's work.
 
 ## XVI. Cause — The Reason the Law Will Accept
 
@@ -237,6 +261,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *cause* is attribution: once established, it fixes who answers for what. The ordinary cause, Part One insisted, governs — and no special guess overrides it.
 
+**Use.** *Cause* is used to connect act to consequence before liability or remedy will attach: it is the test a court or expert runs to ask whether this result truly follows from that act. In practice it filters out the remote, the coincidental, and the merely temporal, admitting only the connection close and real enough to carry responsibility.
+
+**Corollaries.** From *cause* follow three consequences: (1) **proximity, not mere sequence** — that one thing followed another does not make it caused by it; (2) **the ordinary cause governs** — the plain explanation controls unless something stronger genuinely displaces it; and (3) **attribution is responsibility** — to establish cause is to fix who answers, which is why the test is demanding rather than loose.
+
 ## XVII. Breadth — The Reach, and the Limit, of a Rule
 
 **Isolate.** *Breadth* is how far a conclusion extends. Every holding has one; the history of law, the literature observes, is in no small part the history of these boundaries.
@@ -244,6 +272,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *breadth* as the scope a rule claims — the set of future cases it will govern — paired inseparably with its limit, the point past which it does not reach.
 
 **Finality.** The finality of *breadth* is the drawn line itself: a rule that cannot say where it stops cannot say what it is. To define the breadth is to accept the limit in the same breath.
+
+**Use.** *Breadth* is used to test how far a holding may be pressed: it is the question a court or expert asks of any proposed rule — which future cases does this govern, and which does it not? In practice one states a rule's reach and its limit together, so that applying it later is a matter of fit rather than of stretch.
+
+**Corollaries.** From *breadth* follow three consequences: (1) **reach implies limit** — every scope claimed is a boundary accepted, and the two are stated in the same breath; (2) **overbreadth is weakness** — a rule claiming more than its reasoning supports invites its own narrowing; and (3) **the line is reviewable** — because breadth is drawn, it can be examined, and a rule that hides its edge cannot be trusted at it.
 
 ## XVIII. Notion — The Concept Before It Is Doctrine
 
@@ -253,6 +285,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The *notion* has, properly, no finality yet — and that is its honesty. Its conclusion is a promise: that it will either be sharpened into a term or set aside, never passed off as settled while still soft.
 
+**Use.** A *notion* is used in the exploratory stage of reasoning: it lets a court or expert work with a concept that is useful before it is settled, without pretending it already binds. In practice it is the honest label for a working idea — flagged as provisional so that no one mistakes a draft for doctrine.
+
+**Corollaries.** From a *notion* follow three consequences: (1) **the provisional must be labeled** — a soft concept passed off as settled is a hidden error waiting to surface; (2) **it earns or forfeits its place** — a notion must be sharpened into a term or set aside, never left to drift indefinitely; and (3) **it does not bind** — reliance on a notion as if it were a rule is reliance misplaced.
+
 ## XIX. Travel — The Portability of a Principle
 
 **Isolate.** *Travel*, in this lexicon, is the capacity of a legal conclusion to move — to be carried from the case that made it into cases it was not made for.
@@ -261,6 +297,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *travel* is reach honestly earned — a principle that moves only as far as its reasoning truly carries it, and no further. A rule that travels past its reason has not traveled; it has trespassed.
 
+**Use.** *Travel* is used when a principle made in one case is offered to decide another: it is the test a court or expert runs to ask whether the earlier holding, abstracted from its facts, genuinely reaches the new ones. In practice it distinguishes binding precedent that carries over from passing remark that stays home.
+
+**Corollaries.** From *travel* follow three consequences: (1) **reasoning sets the range** — a principle governs elsewhere only as far as the logic that produced it actually extends; (2) **precedent travels, *obiter* does not** — only the binding core moves to new cases; and (3) **travel past reason is trespass** — a rule stretched beyond its rationale has not been applied but misapplied.
+
 ## XX. Enlightenment — The Purpose Above the Rule
 
 **Isolate.** *Enlightenment* is the higher invocation the request asks for — the purpose that sits above any single rule and gives the rules their reason. It is education's end, not law's mechanism.
@@ -268,6 +308,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *enlightenment* as clarity made general: the condition in which law is understood, not merely obeyed, because its purposes are visible to those it governs. It is the point where jurisprudence (thinking *about* law) rejoins living under it.
 
 **Finality.** The finality of *enlightenment* is consent that needs no coercion. When purpose is plain, the heavy end of the cascade falls idle — the destination Part One called a road to total truth.
+
+**Use.** *Enlightenment* is used as the check above every rule: it is the question a court or expert keeps in view throughout — not only "what does the rule say" but "what is this conclusion *for*." In practice it governs how the other terms are applied, keeping breadth honest, caution purposeful, and every holding answerable to the end it serves.
+
+**Corollaries.** From *enlightenment* follow three consequences: (1) **purpose outranks mechanism** — a rule applied against its own reason has been misapplied, however literal the reading; (2) **understanding lowers coercion** — law that is understood needs less force to be obeyed; and (3) **it is the standard the rest serve** — every other term is measured, in the end, by whether it advanced the purpose or merely the procedure.
 
 ## XXI. Caution — The Virtue That Slows the Cascade
 
@@ -289,6 +333,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 **Finality.** The finality of *quitting* is clean severance: the matter ends, the person is free, and nothing lingers to be executed later. A system that cannot let go has lost the right to hold at all.
 
+**Use.** *Quitting* is used to bring a matter lawfully to an end: it is the power a court or expert exercises to release, discharge, acquit, or discontinue when the ground for holding is gone. In practice it is the Hold stage honoring its promise — converting a stay into a release the moment nothing remains that justifies continued hold.
+
+**Corollaries.** From *quitting* follow three consequences: (1) **release must be real** — a severance that leaves something to be executed later is no release at all; (2) **the power to hold implies the duty to let go** — a system that cannot end a matter has forfeited its right to begin one; and (3) **quitting is not failure** — chosen or granted lawfully, it is the exercise of a right, not the abandonment of one.
+
 ## XXIII. Try — The Honest Attempt That the Law Honors
 
 **Isolate.** *Try* carries two meanings the law keeps close: to *attempt*, and to bring to *trial*. Both are honest acts — the effort made in good faith, and the testing of a claim in the open.
@@ -296,6 +344,10 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *try* as the good-faith attempt submitted to fair testing. To try is to act without guarantee of success and to accept that the attempt will be weighed. It is the opposite of the exemption Part One refused: no one tries their way *out* of trial; one tries *within* it.
 
 **Finality.** The finality of *try* is the verdict earned by having genuinely attempted — the only finality this lexicon treats as worthy, because it is reached by effort and judgment together, never by escape. Thus the lexicon ends where it began: on *thus*, honestly arrived at.
+
+**Use.** *Try* is used in both of its senses at the decisive moment: to *attempt* in good faith, and to submit the attempt to open *trial*. In practice a court or expert honors the genuine try — the effort made without guarantee — by testing it fairly rather than excusing it or exempting it, so that the verdict falls on the attempt itself.
+
+**Corollaries.** From *try* follow three consequences: (1) **good faith is required** — only the genuine attempt earns the law's respect; the feigned try earns none; (2) **one tries within trial, not out of it** — the attempt is tested, never used as an escape from testing; and (3) **effort plus judgment yields the only worthy finality** — a verdict reached by honest attempt is sound, while one reached by evasion is not.
 
 ## XXIV. The Sum — What a Court, Judge, or Expert Must Train to Know
 
