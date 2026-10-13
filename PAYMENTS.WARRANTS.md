@@ -7,7 +7,7 @@
 
 ##### All are too dumb for initial causes causes Cancers into the USA and the United States of America and Gods
 
-###### William Watkins ∴
+###### - William Watkins ∴
 
 ###### Bridgette Slivinski ∴
 
