@@ -9,15 +9,15 @@
 
 - ###### William Watkins ∴
 
-###### Bridgette Slivinski ∴
+- ###### Bridgette Slivinski ∴
 
-###### Flora Moorman ∴
+- ###### Flora Moorman ∴
 
-###### Larry Moorman ∴
+- ###### Larry Moorman ∴
 
-###### Kaya Scodelario ∴
+- ###### Kaya Scodelario ∴
 
-###### Michelle Dockery ∴
+- ###### Michelle Dockery ∴
 
 ## Contents
 
