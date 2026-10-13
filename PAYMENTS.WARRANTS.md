@@ -179,7 +179,19 @@ Suppose, finally, the sentence the exercise reserves for last — and read it ex
 
 > **Same framing as Part One.** What follows is a *lexicon*, not a statute. Each section isolates a single word, defines it, and demonstrates how it reaches toward finality in legal reasoning — but every definition is offered as study, not as counsel. Nothing below is legal advice, a determination, or an obligation; it borrows the vocabulary of jurisprudence (the study of law itself) only to think clearly about how a word becomes a conclusion. The aim is the one the research literature names plainly: concepts are the building blocks of doctrine, and law's history is in part the history of its boundaries. We treat each word as such a building block, and each section as one brick laid in the open.
 
-Part One supposed a cascade. Part Two isolates the *words* a cascade is made of. The method is deliberate and repeats in every section: **isolate** the term, **define** it, **demonstrate** how it operates toward a legal conclusion, and state its **finality** — the point past which the word no longer bends. Fourteen words, fourteen conclusions, each a *premium* placed on precision. Read in sequence they move, as the request asks, from education and philosophy through purposes and goals toward a higher invocation: not louder law, but clearer thought about what law is for.
+Part One supposed a cascade. Part Two isolates the *words* a cascade is made of. Fourteen words, fourteen conclusions, each a *premium* placed on precision. Read in sequence they move, as the request asks, from education and philosophy through purposes and goals toward a higher invocation: not louder law, but clearer thought about what law is for.
+
+**The structure of each entry (a standard).** So that the lexicon reads the same way everywhere and can be extended consistently, each term (X through XXIII) is set out under the same seven labels, in the same order. This is the document's standard; any future term added to Part Two should follow it:
+
+1. **Isolate** — set the word apart and say what, precisely, is being examined.
+2. **Define** — give it a fixed, honest meaning, as a building block of doctrine.
+3. **Finality** — state the point past which the word no longer bends.
+4. **Use** — show where and how a court or expert actually applies it.
+5. **Corollaries** — draw the consequences that follow once it is accepted.
+6. **Response** — describe how the able, well-instrumented mind meets the term, choosing the sum over the game.
+7. **Net Changes** — name the direction the term generally moves, as cared-for standard rather than contest, toward revival over the concerns that matter.
+
+Section XXIV departs from this template on purpose: it is the capstone that *concentrates* the fourteen into one, and so is written as synthesis rather than as a fifteenth entry.
 
 ## X. Thus — The Operative Word of Conclusion
 
@@ -408,6 +420,8 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 ## XXIV. The Sum — What a Court, Judge, or Expert Must Train to Know
 
 Part Two defined fourteen words one at a time. This section does the opposite: it **concentrates** them, so that their *effect* is read not word by word but as a single sum. A court, a judge, or an expert does not reach a conclusion by reciting definitions in a row; they reach it by holding all fourteen at once and letting them settle into one judgment. The question this section answers is the one the request poses directly — *what must such a person train to know* for these words to be within reach of their goals, their trials, and their conditions, the way an expert is within reach of a game they have truly mastered?
+
+> **Why this entry breaks the template.** Sections X–XXIII each follow the seven-label standard (Isolate, Define, Finality, Use, Corollaries, Response, Net Changes). This one does not, and the departure is deliberate: having defined the words apart, the standard's own final purpose — *Enlightenment*, the whole above the parts — is served better by synthesis than by a fifteenth set of labels. Read XXIV as the standard applied to itself: the sum is what every entry's *Net Changes* was pointing toward.
 
 **The sum, stated once.** Taken together, the fourteen words resolve into a single operation. One must **have** standing before one may act; **concentrate** on the material facts and discard the rest; fix each **term** so it cannot drift; keep the free **idea** free while honoring the **ideation** that lawfully made a thing one's own; trace a real **cause**; measure the **breadth** of any rule against its limit; let a soft **notion** stay soft until it hardens honestly; allow a principle to **travel** only as far as its reasoning carries; keep **enlightenment** — the purpose above the rule — in view the whole time; move with **caution**; preserve the lawful right of **quitting**; honor the good-faith **try**; and only then write **thus**. That ordered whole *is* the sum. The conclusion is sound exactly when every term was paid its due and none was skipped.
 
