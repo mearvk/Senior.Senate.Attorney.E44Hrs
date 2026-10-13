@@ -34,6 +34,7 @@
 - [XXI. Caution — The Virtue That Slows the Cascade](#xxi-caution--the-virtue-that-slows-the-cascade)
 - [XXII. Quitting — The Lawful Right to Stop](#xxii-quitting--the-lawful-right-to-stop)
 - [XXIII. Try — The Honest Attempt That the Law Honors](#xxiii-try--the-honest-attempt-that-the-law-honors)
+- [XXIV. The Sum — What a Court, Judge, or Expert Must Train to Know](#xxiv-the-sum--what-a-court-judge-or-expert-must-train-to-know)
 
 ## I. The Cascade, Stated Plainly
 
@@ -291,6 +292,23 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 **Define.** We define *try* as the good-faith attempt submitted to fair testing. To try is to act without guarantee of success and to accept that the attempt will be weighed. It is the opposite of the exemption Part One refused: no one tries their way *out* of trial; one tries *within* it.
 
 **Finality.** The finality of *try* is the verdict earned by having genuinely attempted — the only finality this lexicon treats as worthy, because it is reached by effort and judgment together, never by escape. Thus the lexicon ends where it began: on *thus*, honestly arrived at.
+
+## XXIV. The Sum — What a Court, Judge, or Expert Must Train to Know
+
+Part Two defined fourteen words one at a time. This section does the opposite: it **concentrates** them, so that their *effect* is read not word by word but as a single sum. A court, a judge, or an expert does not reach a conclusion by reciting definitions in a row; they reach it by holding all fourteen at once and letting them settle into one judgment. The question this section answers is the one the request poses directly — *what must such a person train to know* for these words to be within reach of their goals, their trials, and their conditions, the way an expert is within reach of a game they have truly mastered?
+
+**The sum, stated once.** Taken together, the fourteen words resolve into a single operation. One must **have** standing before one may act; **concentrate** on the material facts and discard the rest; fix each **term** so it cannot drift; keep the free **idea** free while honoring the **ideation** that lawfully made a thing one's own; trace a real **cause**; measure the **breadth** of any rule against its limit; let a soft **notion** stay soft until it hardens honestly; allow a principle to **travel** only as far as its reasoning carries; keep **enlightenment** — the purpose above the rule — in view the whole time; move with **caution**; preserve the lawful right of **quitting**; honor the good-faith **try**; and only then write **thus**. That ordered whole *is* the sum. The conclusion is sound exactly when every term was paid its due and none was skipped.
+
+**What must be trained — the four competences.** To hold that sum within reach, the practitioner trains four capacities, each a reframing of the lexicon as a skill rather than a glossary:
+
+- **Reach of the terms (knowing the words at sums).** The first competence is fluency: the fourteen words must be so internalized that they are summoned together, not looked up singly. An expert does not consult the rulebook mid-move; the rules have become reflex. Training here is repetition until the sum is instinct — the way a master of any game sees the whole board at once rather than one piece at a time.
+- **Reach of goals (knowing what the conclusion is for).** The second competence is purpose. *Enlightenment* sits above every rule precisely so that no term is applied blindly; the trained mind asks not only "what does the rule say" but "what is this conclusion *for*." A goal held clearly keeps *breadth* honest and keeps *caution* from curdling into mere delay.
+- **Reach of trials and conditions (knowing the ground one stands on).** The third competence is situational: every *trial* has its *conditions*, and the same word can carry different weight under different facts. The trained practitioner reads conditions the way an expert reads the state of a game — not as noise, but as the very thing that decides which term governs now. *Have*, *cause*, and *travel* all shift with the conditions; knowing them is knowing when a rule reaches and when it does not.
+- **Reach of judgment (knowing when to write *thus*).** The fourth and highest competence is the discipline of conclusion: the restraint to withhold *thus* until the sum is complete, and the courage to write it when it is. This is where *try* and *quitting* meet — the willingness to attempt in good faith, and the honesty to stop when the matter is done. Judgment is the competence that cannot be memorized; it is trained only by doing, weighed, and corrected.
+
+**Like games, like experts.** The analogy the request invokes is exact, and worth stating plainly. An expert at a hard game is not someone who has read the rules; it is someone for whom the rules have become a single, fluent sum, deployed under live conditions toward a goal, with the judgment to know a winning move from a losing one. So too here: a court, judge, or expert "knows these words at sums" when the fourteen terms no longer feel like fourteen — when they operate as one trained instinct, within reach of the goal, fitted to the trial's conditions, and closed only by an earned *thus*. That fluency, not the glossary, is the real finality Part Two was building toward.
+
+> **Study, not advice.** As with all of Part Two, this section describes how one might *train to think* about legal words; it is a study of competence, not legal advice, not a determination, and not an obligation. It binds no one and decides nothing.
 
 ---
 
