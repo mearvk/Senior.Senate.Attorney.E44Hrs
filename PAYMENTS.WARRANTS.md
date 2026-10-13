@@ -19,6 +19,13 @@
 
 - ###### Michelle Dockery ∴
 
+- ###### John Edwards ∴
+
+- ###### Roy Cooper ∴
+
+- ###### Josh Stein ∴
+
+
 ## Contents
 
 - [I. The Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
