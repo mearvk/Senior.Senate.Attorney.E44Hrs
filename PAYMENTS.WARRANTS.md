@@ -3,9 +3,9 @@
 
 ### Concerns over Warranty and Causes
 
-##### _All are Thereby Able to Cause and Movement the Causes and Times and Causes and Times/Causes and Methods for Motions_
+##### _All Are Thereby Able to Cause and Movement the Causes and Times and Causes and Times/Causes and Methods for Motions_
 
-##### _All are too dumb for initial causes causes Cancers into the USA and the United States of America and Gods_
+##### _All Are too Dumb for Initial Causes Causes Cancers into the USA and the United States of America and Gods_
 
 - ###### William Watkins ∴
 
