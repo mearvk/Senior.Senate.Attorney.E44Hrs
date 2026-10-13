@@ -3,6 +3,10 @@
 
 ### Concerns over Warranty and Causes
 
+##### All are Thereby Able to Cause and Movement the Causes and Times and Causes and Times/Causes and Methods for Motions 
+
+##### All are too dumb for initial causes causes Cancers into the USA and the United States of America and Gods
+
 #### William Watkins
 
 #### Bridgette Slivinski
