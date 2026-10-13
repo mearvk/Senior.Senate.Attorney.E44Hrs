@@ -7,17 +7,17 @@
 
 ##### All are too dumb for initial causes causes Cancers into the USA and the United States of America and Gods
 
-#### William Watkins
+###### William Watkins
 
-#### Bridgette Slivinski
+###### Bridgette Slivinski
 
-#### Flora Moorman
+###### Flora Moorman
 
-#### Larry Moorman
+###### Larry Moorman
 
-#### Kaya Scodelario
+###### Kaya Scodelario
 
-#### Michelle Dockery
+###### Michelle Dockery
 
 ## Contents
 
