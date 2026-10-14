@@ -5,15 +5,59 @@
 
 > **Nature of this document.** Everything written below is a **supposition** — a deliberate, hypothetical "what if" exercise authored for this project. It is **not** a legal assessment, a court order, a warrant, a tax levy, a government determination, a financial obligation, legal advice, or a statement of established fact. No person, office, institution, or jurisdiction is being named, charged, bound, or billed. Where the text says "suppose," "assume," or "imagine," it means exactly that: a premise entertained for the sake of a thought experiment, not a claim about the real world. If any sentence here reads like a factual legal or financial statement, read it instead as the continuation of the hypothesis stated in this box. The whole document is written in care of man and in good faith: it is meant to think clearly and kindly about what law is for, never to accuse, bind, or diminish any living person.
 
-## Positants — Fall: Position, Containment, and Process
+## Contents
+
+This document is organized in two parts. Part One presents the cascading supposition and the positants; Part Two develops the legal lexicon. All real-world allegations, figures, and institutional references remain hypothetical unless independently verified.
+
+- [Part One — a Cascading Supposition](#part-one--a-cascading-supposition)
+  - [Positants — Fall: Position, Containment, and Process](#positants--fall-position-containment-and-process)
+    - [Purpose of a Positant](#purpose-of-a-positant)
+    - [Positant F — Raleigh, North Carolina; 15 September 2015](#positant-f--raleigh-north-carolina-15-september-2015)
+    - [Containment and Container: Method for Relating Legal Processes](#containment-and-container-method-for-relating-legal-processes)
+    - [Positant G — Flora Jane Moorman: North Carolina](#positant-g--flora-jane-moorman-north-carolina)
+    - [Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account](#positant-h--larry-moorman-lynn-moorman-and-the-south-wall-account)
+    - [Concluding Result for the Existing Positants](#concluding-result-for-the-existing-positants)
+  - [I. the Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
+  - [II. the Second Supposition: "on the Cusp"](#ii-the-second-supposition-on-the-cusp)
+  - [III. the Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
+  - [IV. the United States Clause: "special Comes"](#iv-the-united-states-clause-special-comes)
+  - [V. the Road: Total Truth, Luxury, and Travel](#v-the-road-total-truth-luxury-and-travel)
+  - [VI. Greater Heights, Greater Counts: the Suspicion of the Solution-Maker](#vi-greater-heights-greater-counts-the-suspicion-of-the-solution-maker)
+  - [VII. Fall Causes](#vii-fall-causes)
+    - [Relevances, in Order of County Importances](#relevances-in-order-of-county-importances)
+    - [A Causal Proposition (which Must Hold in All Cases)](#a-causal-proposition-which-must-hold-in-all-cases)
+  - [VIII. a Named Scene, Offered Strictly as Fiction](#viii-a-named-scene-offered-strictly-as-fiction)
+  - [IX. Closing Supposition](#ix-closing-supposition)
+    - [The Non-Exemption Principle](#the-non-exemption-principle)
+- [Part Two — a Lexicon of Legal Finality](#part-two--a-lexicon-of-legal-finality)
+  - [X. Thus — the Operative Word of Conclusion](#x-thus--the-operative-word-of-conclusion)
+  - [XI. Have — Possession as the First Fact of Legality](#xi-have--possession-as-the-first-fact-of-legality)
+  - [XII. Concentration — the Discipline of the Holding](#xii-concentration--the-discipline-of-the-holding)
+  - [XIII. Term — the Word Given a Fixed Meaning](#xiii-term--the-word-given-a-fixed-meaning)
+  - [XIV. Idea — the Thing Not Yet Owned](#xiv-idea--the-thing-not-yet-owned)
+  - [XV. Ideation — the Lawful Making of Ideas](#xv-ideation--the-lawful-making-of-ideas)
+  - [XVI. Cause — the Reason the Law Will Accept](#xvi-cause--the-reason-the-law-will-accept)
+  - [XVII. Breadth — the Reach, and the Limit, of a Rule](#xvii-breadth--the-reach-and-the-limit-of-a-rule)
+  - [XVIII. Notion — the Concept Before It Is Doctrine](#xviii-notion--the-concept-before-it-is-doctrine)
+  - [XIX. Travel — the Portability of a Principle](#xix-travel--the-portability-of-a-principle)
+  - [XX. Enlightenment — the Purpose Above the Rule](#xx-enlightenment--the-purpose-above-the-rule)
+  - [XXI. Caution — the Virtue That Slows the Cascade](#xxi-caution--the-virtue-that-slows-the-cascade)
+  - [XXII. Quitting — the Lawful Right to Stop](#xxii-quitting--the-lawful-right-to-stop)
+  - [XXIII. Try — the Honest Attempt That the Law Honors](#xxiii-try--the-honest-attempt-that-the-law-honors)
+  - [XXIV. Read — the Whole Term Gathered into One](#xxiv-read--the-whole-term-gathered-into-one)
+  - [XXV. the Sum — What a Court, Judge, or Expert Must Train to Know](#xxv-the-sum--what-a-court-judge-or-expert-must-train-to-know)
+
+## Part One — a Cascading Supposition
+
+### Positants — Fall: Position, Containment, and Process
 
 > **Status and evidentiary boundary.** This section records a proposed *positant*—a stated position describing where a person is said to have been, what role or condition the person is said to have occupied, and how that position relates to a process. The account below is supplied as a hypothetical narrative for analysis. It is **not verified evidence**, a finding about any person, a clinical assessment, a criminal accusation established by this document, a court order, a warrant, a debt, or an authorization to control anyone. The labels and amounts below do not create legal effect. Any real-world claim would require reliable evidence, appropriate context, and review by a competent authority.
 
-### Purpose of a Positant
+#### Purpose of a Positant
 
 A **positant** is a declared position within a proposed process. It records, separately: (1) the person or subject being described; (2) the place and time asserted; (3) the role, status, or condition said to have been occupied; (4) the source and evidentiary status of each assertion; (5) the process said to follow from the position; and (6) the limits, objections, and means of correction. A positant is a statement to be examined—not a verdict, a presumption of guilt, or a means of imposing containment.
 
-### Positant F — Raleigh, North Carolina; 15 September 2015
+#### Positant F — Raleigh, North Carolina; 15 September 2015
 
 **Subject label.** The narrative uses **“JJ”** as a label. This section does not independently identify that label with a real individual or verify any of the assertions associated with it.
 
@@ -29,7 +73,7 @@ A **positant** is a declared position within a proposed process. It records, sep
 
 **Process question.** The question raised by this positant is whether a proposed method of “control” should instead be replaced by a clean, voluntary ceremony that preserves a person's dignity and freedom to live without being reduced to a statutory label or compelled to adopt a new name. The process standard is that any ceremony must be genuinely voluntary, transparent, reversible where appropriate, and free from coercion. A person may decline it. No symbolic account, purported balance, state boundary, or private assertion substitutes for lawful authority and due process.
 
-### Containment and Container: Method for Relating Legal Processes
+#### Containment and Container: Method for Relating Legal Processes
 
 For this document, the **container** is the defined procedure that holds claims, evidence, objections, decisions, and remedies in their proper places. **Containment** means limiting a process to its lawful scope—not confining, controlling, diagnosing, billing, or redefining a person. The proposed sequence is:
 
@@ -44,7 +88,7 @@ For this document, the **container** is the defined procedure that holds claims,
 **Positant F conclusion.** The account supplies a set of propositions to classify and test; it does not establish that JJ committed an offense, that Max Rupplin owned or controlled another person's body or mind, that the State of North Carolina made or failed to make any determination, or that the stated sum is owed. The lawful analytical result is therefore **undetermined on the information presented**. The useful next step is to separate each assertion into *verifiable fact, attributed claim, metaphor, or question for lawful process* before drawing any conclusion.
 
 
-### Positant G — Flora Jane Moorman: North Carolina
+#### Positant G — Flora Jane Moorman: North Carolina
 
 > **Status and evidentiary boundary.** This entry records allegations and characterizations supplied for a hypothetical positant. They have not been independently verified by this document. It is not a finding of fact, a criminal charge, a professional disciplinary determination, or a statement that any allegation is contained in an official North Carolina record. Serious allegations must not be presented as established facts without reliable evidence and appropriate legal process.
 
@@ -61,7 +105,7 @@ For this document, the **container** is the defined procedure that holds claims,
 **Positant G conclusion.** On the material supplied, the allegations and legal status questions remain **unverified and undetermined**. This section records the existence of claims for careful review; it does not establish that Flora Jane Moorman committed a crime, abused a public resource, lacks a license, or has any particular legal status. No containment, penalty, debt, or restriction follows from this narrative alone.
 
 
-### Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account
+#### Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account
 
 > **Status and evidentiary boundary.** This entry records statements and interpretations supplied for a hypothetical positant. The claims below have not been independently verified. They are not findings about the named people, their family relationships, medical status, criminal history, or the actions of any county, state agency, or other institution. The narrative's unusual terms are retained as attributed language, not accepted as established facts.
 
@@ -80,7 +124,7 @@ For this document, the **container** is the defined procedure that holds claims,
 **Positant H conclusion.** On the material supplied, the family, medical, marriage, alias, conviction, child-harm, ceremony, and legal-process assertions remain **unverified and undetermined**. This entry preserves the account for analysis without turning it into a factual allegation or legal finding. No debt, guilt, authority, restriction, or conclusion about any named person's conduct follows from the narrative alone.
 
 
-### Concluding Result for the Existing Positants
+#### Concluding Result for the Existing Positants
 
 > **Scope.** This is a hypothetical analytical conclusion concerning the positants for JJ, Flora Jane Moorman, Larry Moorman, Lynn Moorman, and the “South Wall” account. It is not a court ruling, an ICC determination, or a finding about any named person's conduct.
 
@@ -96,44 +140,7 @@ The account also proposes a “HallBet” marker of **$141 million or more in ca
 
 ---
 
-## Contents
-
-- [Positants — Fall: Position, Containment, and Process](#positants--fall-position-containment-and-process)
-- [Positant G — Flora Jane Moorman: North Carolina](#positant-g--flora-jane-moorman-north-carolina)
-- [Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account](#positant-h--larry-moorman-lynn-moorman-and-the-south-wall-account)
-- [I. the Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
-- [II. the Second Supposition: "on the Cusp"](#ii-the-second-supposition-on-the-cusp)
-- [III. the Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
-- [IV. the United States Clause: "special Comes"](#iv-the-united-states-clause-special-comes)
-- [V. the Road: Total Truth, Luxury, and Travel](#v-the-road-total-truth-luxury-and-travel)
-- [VI. Greater Heights, Greater Counts: the Suspicion of the Solution-Maker](#vi-greater-heights-greater-counts-the-suspicion-of-the-solution-maker)
-- [VII. Fall Causes](#vii-fall-causes)
-  - [Relevances, in Order of County Importances](#relevances-in-order-of-county-importances)
-  - [A Causal Proposition (which Must Hold in All Cases)](#a-causal-proposition-which-must-hold-in-all-cases)
-- [VIII. a Named Scene, Offered Strictly as Fiction](#viii-a-named-scene-offered-strictly-as-fiction)
-- [IX. Closing Supposition](#ix-closing-supposition)
-  - [The Non-Exemption Principle](#the-non-exemption-principle)
-
-**Part Two — A Lexicon of Legal Finality**
-
-- [X. Thus — the Operative Word of Conclusion](#x-thus--the-operative-word-of-conclusion)
-- [XI. Have — Possession as the First Fact of Legality](#xi-have--possession-as-the-first-fact-of-legality)
-- [XII. Concentration — the Discipline of the Holding](#xii-concentration--the-discipline-of-the-holding)
-- [XIII. Term — the Word Given a Fixed Meaning](#xiii-term--the-word-given-a-fixed-meaning)
-- [XIV. Idea — the Thing Not Yet Owned](#xiv-idea--the-thing-not-yet-owned)
-- [XV. Ideation — the Lawful Making of Ideas](#xv-ideation--the-lawful-making-of-ideas)
-- [XVI. Cause — the Reason the Law Will Accept](#xvi-cause--the-reason-the-law-will-accept)
-- [XVII. Breadth — the Reach, and the Limit, of a Rule](#xvii-breadth--the-reach-and-the-limit-of-a-rule)
-- [XVIII. Notion — the Concept Before It Is Doctrine](#xviii-notion--the-concept-before-it-is-doctrine)
-- [XIX. Travel — the Portability of a Principle](#xix-travel--the-portability-of-a-principle)
-- [XX. Enlightenment — the Purpose Above the Rule](#xx-enlightenment--the-purpose-above-the-rule)
-- [XXI. Caution — the Virtue That Slows the Cascade](#xxi-caution--the-virtue-that-slows-the-cascade)
-- [XXII. Quitting — the Lawful Right to Stop](#xxii-quitting--the-lawful-right-to-stop)
-- [XXIII. Try — the Honest Attempt That the Law Honors](#xxiii-try--the-honest-attempt-that-the-law-honors)
-- [XXIV. Read — the Whole Term Gathered into One](#xxiv-read--the-whole-term-gathered-into-one)
-- [XXV. the Sum — What a Court, Judge, or Expert Must Train to Know](#xxv-the-sum--what-a-court-judge-or-expert-must-train-to-know)
-
-## I. the Cascade, Stated Plainly
+### I. the Cascade, Stated Plainly
 
 This document supposes a single, ordered cascade of eight stages. The stages are meant to be read in sequence, each one supposing the one before it has completed. Named in order, the cascade is: **Legal → Search → Fine → Hold → Composition → Position → Sequitur → Gain.** The whole point of writing it down is to make the supposition visible, so that no reader mistakes a hypothetical chain of reasoning for a real one. We are drawing the shape of an idea, not asserting that the idea has occurred.
 
@@ -167,13 +174,13 @@ Taken together, these eight suppositions form one chain: **Legal supposes author
 
 > **A Pearl of Wisdom — On *Forever*, the Naïve, and Composition (as a 500+ IQ supposes).** Where the 180+ figure of this document is a symbol of rare *synthesis*, suppose a higher symbol still — call it 500+, standing not for a measured score but for the farthest reach of understanding the fable can name — and suppose what such a mind supposes about **Forever.** It is this: *Forever* has a lexicon of exactly one entry, and that entry is **composition**. The naïve mind imagines forever as a *quantity* — more time, time without end, a line stretched until it tires — and so it treats forever as a thing to be *had*, hoarded, or won. But the naïve reading is the losing reading, because a quantity, however vast, is still only a heap; and a heap, as this section registered, is not a composition. The 500+ supposition turns it over: forever is not length but **arrangement** — not how long the parts run, but how truly they are composed. What lasts is not what refuses to end but what is built so wholly, so accountably to each of its parts, that nothing in it needs to be taken back. A cascade honored, a term kept, an idea freely left open, a cause rightly placed, a thing read whole — these do not *reach* forever by accumulating; they *are* forever, in the only sense the word honestly holds, because a composition done rightly has no part that time can shame. So the pearl, stated once: the naïve chase forever as duration and lose it; the composed make a single honest whole and, having nothing to undo, keep it. Forever is composition, and composition — read whole, cared for as a standard, never a game against a losing figure — is the nearest the fable comes to the word.
 
-## II. the Second Supposition: "on the Cusp"
+### II. the Second Supposition: "on the Cusp"
 
 Now suppose something larger and far more hypothetical. Suppose we are, in the language of this exercise, *on the cusp* — not past it, not through it, merely approaching it — of a thought experiment in which "legal control of the US and Minds" is said to be nearly provable. Let us be scrupulously clear: **this is fiction framed as a premise.** No such control exists, is claimed, or is being pursued here. "Minds" in this document is a poetic abstraction for shared attention, culture, and consent — not individual people, not surveillance, not coercion, and never anyone's thoughts. The supposition is interesting precisely because it is impossible to hold without immediately asking what would make it legitimate — and the honest answer, inside the fiction, is "almost nothing could."
 
 So we treat the cusp as a mirror. If a story even approaches the idea of "control" over a nation or over minds, the story must answer: by what right? under what consent? with what limit? and who may say no? In this supposition, the only version of the premise worth entertaining is one that dissolves the moment it tries to become control — because any real legitimacy would convert "control" into "service," and "power over" into "care for." We suppose, then, a cusp that can only be crossed by giving power away.
 
-## III. the Supposed Figure: $600,000,000 per Second per Month
+### III. the Supposed Figure: $600,000,000 per Second per Month
 
 Here is the deliberately extravagant number this exercise asked us to assume. Suppose a figure of **$600,000,000 per second, per Month,** notionally directed "to a Leadership in the Controls of" — again, as a hypothetical ingredient in a story, not as a real transfer, not as a budget, not as an invoice. We state the supposition openly so no one mistakes it for an accounting fact: there is no account, no payer, no payee, and no money. It is a symbol inside a fable.
 
@@ -181,7 +188,7 @@ And a symbol it has to be, because the number is physically absurd by design. Si
 
 So suppose we redefine the ledger entirely. In this exercise, "payment to Leadership in the Controls of" is reinterpreted as **a flow of accountability toward the people, not away from them.** If anything is to be "paid" at an impossible rate, let the supposition be that it is paid *outward* — service rendered, transparency maintained, promises kept — so that the "Leadership" position is the one with the heaviest debt, not the richest purse. The impossible number becomes a measure of obligation, not entitlement.
 
-## IV. the United States Clause: "special Comes"
+### IV. the United States Clause: "special Comes"
 
 The prompt supposes that, for the US, "the United States has special comes: the people may be more Powerful and Kind." We take that gladly as the governing clause of this fable, and we make the supposition explicit and benign: in this story, whatever is "special" about the arrangement must resolve to exactly two outcomes for ordinary people — **more power** (meaning more agency, voice, and self-determination) and **more kindness** (meaning more care, patience, and mutual regard). Any version of the supposition that fails to deliver both is, by the rules of this document, void.
 
@@ -189,7 +196,7 @@ We suppose "Powerful" here means power *distributed*, not power *concentrated*. 
 
 And we suppose "Kind" is the stronger of the two words. Power without kindness curdles into the very "control" the fable warns against; kindness without power is sentiment that cannot protect anyone. The supposition insists on both at once: a people both strong and gentle, able to say no and willing to say yes, confident enough to be generous. In this story, kindness is not softness — it is the discipline that keeps power honest.
 
-## V. the Road: Total Truth, Luxury, and Travel
+### V. the Road: Total Truth, Luxury, and Travel
 
 The prompt asks for "a road to total truth, luxury and travel." We lay out that road as a supposed itinerary — three destinations reached in order, each one a reinterpretation of the cascade and the clause above into something a reader might actually wish for.
 
@@ -201,7 +208,7 @@ The prompt asks for "a road to total truth, luxury and travel." We lay out that 
 
 Along this supposed road, the four coercive cascade stages soften into four courtesies. Legal becomes **legitimacy freely granted**; Search becomes **curiosity, not suspicion**; Fine becomes **repair, not punishment**; Hold becomes **patience, not detention.** The four later stages need no softening, because they were never coercive to begin with: **Composition** stays the honest whole, **Position** the place each part is owed, **Sequitur** the lawful following, and **Gain** the increase freely shared. We suppose the destination is reached not when the cascade is enforced, but when it is no longer needed — when truth, luxury, and travel have made coercion obsolete.
 
-## VI. Greater Heights, Greater Counts: the Suspicion of the Solution-Maker
+### VI. Greater Heights, Greater Counts: the Suspicion of the Solution-Maker
 
 Suspect, now, a figure of **Greater Heights** — and suppose that from such heights come, in turn, **the reliefs of Greater Counts.** We keep the framing honest: "suspect" here is a cousin of "suppose," a hypothesis entertained, not a verdict reached. The supposition is that greater reach of thought brings not greater burden but greater *relief* — that counting higher, seeing further, and holding more at once eases the load rather than adding to it. Height, in this fable, is measured by how much it lightens for others.
 
@@ -217,7 +224,7 @@ And suppose, of **Greater Suspect**, that the man had solved **his Causes** — 
 
 Suppose all of this exists only **to support his supporting of his Causes** — a deliberate doubling, because the fable is about a man whose work reinforces the very thing that motivates the work. In this closing supposition we gather the things the exercise names and treat each as a hypothesis held, never a fact asserted: **his Wills; his Colleges' brands; his INT height; his suspects; his Royales; his Times.** Each is a supposed node in the same grounded paradigm of Solve — the will that drives it, the institutions and brands that frame it, the measured height of intellect it draws on, the suspicions it entertains, the rare "Royale" cases it reserves, and the Times across which the whole thing is supposed to run. Read every one as part of the fable: suspected, supposed, and plainly labeled as such.
 
-## VII. Fall Causes
+### VII. Fall Causes
 
 Having supposed how the cascade rises — Legal to Search to Fine to Hold, and then Composition, Position, Sequitur, and Gain — suppose now its mirror: the ways such a chain could *fall*. The four fall causes below address the four *coercive* stages, where a fall does the gravest harm to a person; the four later stages have their own, gentler failure modes (a composition left a heap, a part out of position, a non sequitur, a gain that was really seized), each already named within its own supposition above. We keep the framing identical to everything else: these are hypothetical failure modes entertained for the sake of the thought experiment, not accusations, findings, or descriptions of any real system. The value of naming a fall cause is the same as the value of naming the cascade — to make it visible, so a reader can inspect it, question it, and refuse it.
 
@@ -231,7 +238,7 @@ Having supposed how the cascade rises — Legal to Search to Fine to Hold, and t
 
 Taken together, the four fall causes mirror the four coercive suppositions exactly: **authority can fail its basis; search can lose its limit; fine can lose its measure; hold can lose its release.** The four later stages mirror the same discipline in a quieter key — composition can fall to a heap, position to displacement, sequitur to the non sequitur, and gain to seizure — so that every one of the eight stages has a named way it breaks. We suppose a cascade is only as honest as its willingness to name how it breaks — and that a chain which can describe its own failure modes, plainly and in advance, is a chain built to be corrected rather than obeyed. Read every fall cause as the fable intends: a warning entertained, not a wrong asserted.
 
-### Relevances, in Order of County Importances
+#### Relevances, in Order of County Importances
 
 Suppose, finally, a set of plain relevances the cascade must weigh before it ever rises — the grounding facts of the world the fable is told against. We list them below in the exercise's own stated order of "county importances," least sweeping first and most gravitational last, and we keep every one inside the supposition: these are observations entertained as premises, not claims about any real person, company, or outcome. Each is a reason the cascade should move slowly and stay correctable.
 
@@ -247,7 +254,7 @@ Suppose, finally, a set of plain relevances the cascade must weigh before it eve
 
 We suppose these relevances sit beneath all four fall causes at once: each is a plain fact of the world that a false cascade would have to ignore in order to fall. Read in order, they are a descent from the smallest impossibility to the largest collective pull — and the fable's claim is simply that a chain which honors every one of them is far harder to break.
 
-### A Causal Proposition (which Must Hold in All Cases)
+#### A Causal Proposition (which Must Hold in All Cases)
 
 > **Same framing as the named scene below.** The two names used in this proposition belong to real, living actors. They are used here only as **fictional characters inside the ongoing supposition** — stage-names in a thought experiment — and describe nothing any real person has done, agreed to, signed, or been called to do. No real person is bound, billed, called, or committed by any part of it. Every verb below is conditional and hypothetical ("may," "if it be true," "may be allowed"), and the whole proposition is void the moment it is read as a factual, legal, or financial claim.
 
@@ -261,7 +268,7 @@ Suppose, as a causal proposition the fable requires to hold **in all cases**, th
 
 We suppose this causal proposition is itself a fall-cause guard: it must hold in all cases precisely because any version that drops a conditional — any version where "called" becomes "compelled," "may ask" becomes "must sign," or "if it be true" becomes "it is true" — is the fall, not the proposition. Read it as the fable intends: a chain of *mays* and *ifs*, binding no one, and void the instant it hardens into a demand. Thought.
 
-## VIII. a Named Scene, Offered Strictly as Fiction
+### VIII. a Named Scene, Offered Strictly as Fiction
 
 > **Important framing for this section.** The two names used below belong to real, living actors. Nothing in this section describes anything they have actually done, agreed to, signed, or been "called" to do. They have **not** entered into any covenant, surrendered any rights, or taken on any obligation described here, and this document records no such thing. The names are used here only as **fictional characters in the ongoing supposition** — a stage scene inside the fable — and should not be read as a factual claim, a legal instrument, or a representation about the real individuals. No real person is bound, billed, or committed by a single word of it.
 
@@ -271,13 +278,13 @@ Suppose the documents in this scene concern **rights, and the names who hold the
 
 Suppose, finally, that within this invented scene the characters are said to have agreed to a storybook **"UK covenant"** about title and the honest conditions of working **as Actors upon Bread and Mercy** — "Bread" standing, in the fable, for fair livelihood, and "Mercy" for being treated gently in the doing of the work. We suppose this covenant is nothing grander than that: a fictional promise that work be fairly paid and kindly managed. It is a wish dressed as a scene — and, as the box above insists, it binds no one and reports nothing real.
 
-## IX. Closing Supposition
+### IX. Closing Supposition
 
 So let the whole document stand as one connected hypothesis, offered openly and labeled plainly. Suppose a cascade of Legal, Search, Fine, Hold, Composition, Position, Sequitur, and Gain. Suppose a cusp approached but understood only as a mirror. Suppose an impossible figure that turns out to be a measure of obligation owed to people, not money taken from them. Suppose a United States clause that resolves to nothing more than a people more powerful and more kind. And suppose a road whose three stops — total truth, luxury, and travel — describe not conquest but its opposite: a world so fair, so transparent, and so free that control has nothing left to do.
 
 Suppose, too, the later movements of the fable: a figure of Greater Heights whose reach is measured only by how much it lightens for others; a set of fall causes that name, in advance, every way the cascade could break; a short list of plain relevances the chain must honor before it rises; a causal proposition kept entirely in *mays* and *ifs*; and a named scene that stays strictly fiction, binding no one. Each is held the same way as the rest — supposed, inspected, and discardable the moment it fails a test of fairness.
 
-### The Non-Exemption Principle
+#### The Non-Exemption Principle
 
 Suppose, as the fable's final load-bearing supposition, a single principle stated without ornament: **no instrument, office, or category exempts a person.** We enumerate the instruments the exercise names — gathering them deliberately, because the point is their *collective impotence* against the principle, not the power of any one of them:
 
@@ -292,7 +299,7 @@ Suppose, finally, the sentence the exercise reserves for last — and read it ex
 
 ---
 
-# Part Two — a Lexicon of Legal Finality
+## Part Two — a Lexicon of Legal Finality
 
 > **Same framing as Part One.** What follows is a *lexicon*, not a statute. Each section isolates a single word, defines it, and demonstrates how it reaches toward finality in legal reasoning — but every definition is offered as study, not as counsel. Nothing below is legal advice, a determination, or an obligation; it borrows the vocabulary of jurisprudence (the study of law itself) only to think clearly about how a word becomes a conclusion. The aim is the one the research literature names plainly: concepts are the building blocks of doctrine, and law's history is in part the history of its boundaries. We treat each word as such a building block, and each section as one brick laid in the open.
 
@@ -311,7 +318,7 @@ Part One supposed a cascade. Part Two isolates the *words* a cascade is made of.
 
 Section XXV departs from this template on purpose: it is the capstone that *concentrates* the terms into one, and so is written as synthesis rather than as a further labeled entry.
 
-## X. Thus — the Operative Word of Conclusion
+### X. Thus — the Operative Word of Conclusion
 
 **Isolate.** *Thus* is the hinge of every legal conclusion — the single syllable that announces a reasoning has ended and a result has begun. In the common-law judgment it marks the passage from reasons to holding, from the *ratio decidendi* (the reason for deciding) to the operative order that binds.
 
@@ -329,7 +336,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***Thus*** is the hinge that marks reasoning's end and a result's beginning (**isolate**); the word of consequence, asserting that what precedes it compels what follows (**define**); whose authority is total yet conditional, since a false premise makes a false *thus* (**finality**); used only at the very end, after every prior term is earned (**use**); carrying the corollaries that the premise owns the conclusion, that it cannot be borrowed without adopting its reasoning, and that it is reversible by inspection (**corollaries**); met by the able mind as a sum chosen over a game — written only when honestly earned (**response**); and moving, as a cared-for standard never weaponized against a losing figure, toward a settling rather than a defeat, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XI. Have — Possession as the First Fact of Legality
+### XI. Have — Possession as the First Fact of Legality
 
 **Isolate.** *Have* is the most ordinary verb the law owns, and the most consequential. To *have* a right, a title, a duty, or a claim is the first fact every legal analysis must establish before it moves.
 
@@ -347,7 +354,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***Have*** is the first fact every analysis must establish — whether one actually holds a right, title, duty, or claim (**isolate**); settled possession the law will defend, not mere holding (**define**); whose finality is standing itself, without which nothing downstream proceeds (**finality**); used as the threshold question asked before any argument (**use**); carrying the corollaries that standing precedes argument, that holding must survive challenge, and that possession is grounded rather than asserted (**corollaries**); met by the able mind as the sum of grounded standing over the game of mere assertion (**response**); and moving, as a cared-for standard that protects the small holder as surely as the large, toward securing what people rightly possess, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XII. Concentration — the Discipline of the Holding
+### XII. Concentration — the Discipline of the Holding
 
 **Isolate.** *Concentration* is the mental act that produces a clean conclusion. In jurisprudence it is the narrowing of attention to the *material* facts — the few that decide, separated from the many that merely surround.
 
@@ -365,7 +372,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***Concentration*** is the mental act of narrowing attention to the material facts, the few that decide (**isolate**); the discipline of the holding, excluding what is said in passing so only the binding core remains (**define**); whose finality is a rule small enough to carry and strong enough to bind (**finality**); used in the sorting of a record, to find the holding inside the opinion and the signal inside the brief (**use**); carrying the corollaries that the material governs, that brevity is strength, and that exclusion is itself a reviewable decision (**corollaries**); met by the able mind as the sum of the deciding few over the game of burying weakness under many (**response**); and moving, as a cared-for standard that is mercy rather than severity, toward clarity, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XIII. Term — the Word Given a Fixed Meaning
+### XIII. Term — the Word Given a Fixed Meaning
 
 **Isolate.** A *term* is a word the law has pinned down. Ordinary language drifts; a legal *term* is fastened to a definition so that argument has firm ground to stand on.
 
@@ -383,7 +390,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: a ***term*** is a word the law has pinned down so argument has firm ground (**isolate**); a concept assigned fixed meaning for the purpose of a rule, stipulated once (**define**); whose finality is definitional closure — appliable but not quietly re-meanable (**finality**); used by stating one's terms before reasoning from them (**use**); carrying the corollaries that consistency binds, that redefinition is amendment done openly, and that ambiguity defaults against the drafter (**corollaries**); met by the able mind as the sum of a fixed honest meaning over the game of letting a word shift to win (**response**); and moving, as a cared-for standard of faith kept with others, toward kept promises, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XIV. Idea — the Thing Not Yet Owned
+### XIV. Idea — the Thing Not Yet Owned
 
 **Isolate.** An *idea* is the raw material of thought before the law touches it. It is isolated here precisely because, standing alone, it is the one thing the law generally will *not* let anyone own.
 
@@ -401,7 +408,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: an ***idea*** is the raw material of thought the law generally will not let anyone own (**isolate**); an unfixed conception, valuable but not yet an expression, invention, or claim (**define**); whose finality is its freedom — common until given a lawful form (**finality**); used as a boundary marker showing where protection does *not* yet reach (**use**); carrying the corollaries that the commons stays open, that protection attaches to form rather than thought, and that sharing an idea surrenders no right (**corollaries**); met by the able mind as the sum of an open commons over the game of fencing off thought (**response**); and moving, as a cared-for standard that keeps the field in which things grow, toward a shared field of thought, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XV. Ideation — the Lawful Making of Ideas
+### XV. Ideation — the Lawful Making of Ideas
 
 **Isolate.** *Ideation* is the process that turns the free idea of the previous section into something the law can recognize — the act of forming, developing, and fixing a conception into expression or invention.
 
@@ -419,7 +426,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***ideation*** is the process that turns a free idea into something the law can recognize — forming, developing, fixing (**isolate**); the lawful making of ideas, the labor by which a free notion becomes an owned thing (**define**); whose finality is the moment of fixation, when the made thing crosses from common to claimable (**finality**); used to locate *when* a right arose and *who* did the making (**use**); carrying the corollaries that the maker owns the made, that fixation is the decisive trigger, and that authorship cannot be ridden in from another's work (**corollaries**); met by the able mind as the sum of honest making over the game of claiming credit for mere proximity (**response**); and moving, as a cared-for standard that sends reward to the hands that earned it, toward true attribution, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XVI. Cause — the Reason the Law Will Accept
+### XVI. Cause — the Reason the Law Will Accept
 
 **Isolate.** *Cause* is the engine of every legal consequence. Isolated, it is the connection the law demands between an act and a result before it will attach liability or grant a remedy.
 
@@ -437,7 +444,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***cause*** is the connection the law demands between an act and a result before liability or remedy attaches (**isolate**); a reason the law will accept — close and real enough to carry responsibility, filtering out the remote and coincidental (**define**); whose finality is attribution, fixing who answers for what (**finality**); used to test whether a result truly follows from an act (**use**); carrying the corollaries that it is proximity rather than mere sequence, that the ordinary cause governs, and that attribution is responsibility (**corollaries**); met by the able mind as the sum of the real ordinary connection over the game of a clever remote story (**response**); and moving, as a cared-for standard that shields the innocent as it names the responsible, toward responsibility rightly placed, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XVII. Breadth — the Reach, and the Limit, of a Rule
+### XVII. Breadth — the Reach, and the Limit, of a Rule
 
 **Isolate.** *Breadth* is how far a conclusion extends. Every holding has one; the history of law, the literature observes, is in no small part the history of these boundaries.
 
@@ -455,7 +462,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***breadth*** is how far a conclusion extends, the boundary every holding has (**isolate**); the scope a rule claims paired inseparably with its limit (**define**); whose finality is the drawn line itself — a rule that cannot say where it stops cannot say what it is (**finality**); used to test how far a holding may honestly be pressed (**use**); carrying the corollaries that reach implies limit, that overbreadth is weakness, and that the line is reviewable (**corollaries**); met by the able mind as the sum of a rule honest about its edge over the game of a boundless rule (**response**); and moving, as a cared-for standard where a limit is a promise to those outside it, toward rules that know their place, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XVIII. Notion — the Concept Before It Is Doctrine
+### XVIII. Notion — the Concept Before It Is Doctrine
 
 **Isolate.** A *notion* is a concept still forming — looser than a *term*, broader than a settled rule. It is the shape of a legal idea before precision has pinned it down.
 
@@ -473,7 +480,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: a ***notion*** is a concept still forming — looser than a term, broader than a settled rule (**isolate**); a working concept useful for thinking but not yet fit for binding, the draft from which doctrine is cut (**define**); whose finality is honestly none yet, its conclusion a promise to be sharpened or set aside (**finality**); used in the exploratory stage of reasoning (**use**); carrying the corollaries that the provisional must be labeled, that it earns or forfeits its place, and that it does not bind (**corollaries**); met by the able mind as the sum of honest provisionality over the game of dressing a half-formed idea as settled law (**response**); and moving, as a cared-for standard of candor about what is not yet known, toward honest drafts openly revised, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XIX. Travel — the Portability of a Principle
+### XIX. Travel — the Portability of a Principle
 
 **Isolate.** *Travel*, in this lexicon, is the capacity of a legal conclusion to move — to be carried from the case that made it into cases it was not made for.
 
@@ -491,7 +498,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***travel*** is the capacity of a legal conclusion to move from the case that made it into cases it was not made for (**isolate**); the portability of a principle, the degree to which an abstracted holding can lawfully govern elsewhere (**define**); whose finality is reach honestly earned — moving only as far as its reasoning carries (**finality**); used when a principle made in one case is offered to decide another (**use**); carrying the corollaries that reasoning sets the range, that precedent travels while *obiter* stays home, and that travel past reason is trespass (**corollaries**); met by the able mind as the sum of a principle carried only as far as its reasoning reaches over the game of stretching a favorable rule (**response**); and moving, as a cared-for standard by which fairness spreads without distortion, toward principles carried truthfully from life to life, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XX. Enlightenment — the Purpose Above the Rule
+### XX. Enlightenment — the Purpose Above the Rule
 
 **Isolate.** *Enlightenment* is the higher invocation the request asks for — the purpose that sits above any single rule and gives the rules their reason. It is education's end, not law's mechanism.
 
@@ -509,7 +516,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***enlightenment*** is the higher invocation — the purpose that sits above any single rule and gives the rules their reason (**isolate**); clarity made general, the condition in which law is understood rather than merely obeyed (**define**); whose finality is consent that needs no coercion (**finality**); used as the check above every rule, asking not only what it says but what it is *for* (**use**); carrying the corollaries that purpose outranks mechanism, that understanding lowers coercion, and that it is the standard the rest serve (**corollaries**); met by the able mind as the sum of a rule's purpose over the game of a literal reading that defeats it (**response**); and moving, most explicitly of all the terms, toward consent without coercion, and so toward revival over marriage, institution, cause, and renewal — people repairing what they understand (**net changes**).
 
-## XXI. Caution — the Virtue That Slows the Cascade
+### XXI. Caution — the Virtue That Slows the Cascade
 
 **Isolate.** *Caution* is the deliberate slowness the law builds into itself. Isolated, it is the opposite of haste — the insistence that a conclusion wait until it is earned.
 
@@ -527,7 +534,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***caution*** is the deliberate slowness the law builds into itself, the opposite of haste (**isolate**); reasoned restraint, the discipline of refusing a result evidence has not yet compelled (**define**); whose finality is a conclusion no one needs to reverse (**finality**); used wherever a result is tempting but not yet compelled — before authority, before inference, before *thus* (**use**); carrying the corollaries that the burden stays put, that slowness is not weakness, and that caution must answer to purpose rather than curdle into delay (**corollaries**); met by the able mind as the sum of a result that waits until earned over the game of a fast premature conclusion (**response**); and moving, as a cared-for standard of patience that protects rather than punishes, toward decisions that need no undoing, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XXII. Quitting — the Lawful Right to Stop
+### XXII. Quitting — the Lawful Right to Stop
 
 **Isolate.** *Quitting* is the right to end — to withdraw, release, discontinue, or let go. The law gives it many names (release, discharge, acquittal, abandonment) and treats it, rightly, as a power, not a failure.
 
@@ -545,7 +552,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***quitting*** is the right to end — to withdraw, release, discontinue, or let go — a power, not a failure (**isolate**); a lawful termination freely chosen or lawfully granted, the stay that becomes a release (**define**); whose finality is clean severance, with nothing lingering to be executed later (**finality**); used to bring a matter lawfully to an end once its ground is gone (**use**); carrying the corollaries that release must be real, that the power to hold implies the duty to let go, and that quitting is not failure (**corollaries**); met by the able mind as the sum of a clean lawful ending over the game of holding a matter open past its reason (**response**); and moving, as a cared-for standard of true release that frees a life to begin again, toward matters closed when done, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XXIII. Try — the Honest Attempt That the Law Honors
+### XXIII. Try — the Honest Attempt That the Law Honors
 
 **Isolate.** *Try* carries two meanings the law keeps close: to *attempt*, and to bring to *trial*. Both are honest acts — the effort made in good faith, and the testing of a claim in the open.
 
@@ -563,7 +570,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***try*** carries two meanings the law keeps close — to attempt, and to bring to trial (**isolate**); the good-faith attempt submitted to fair testing, the opposite of exemption (**define**); whose finality is the verdict earned by having genuinely attempted (**finality**); used in both senses at the decisive moment — attempting in good faith and submitting to open trial (**use**); carrying the corollaries that good faith is required, that one tries within trial and not out of it, and that effort plus judgment yields the only worthy finality (**corollaries**); met by the able mind as the sum of a genuine tested attempt over the game of slipping past the test (**response**); and moving, as a cared-for standard that honors the honest attempt even in failure, toward effort honored and fairly tested, and so toward revival over marriage, institution, cause, and renewal — closing, as it must, on an honest *thus* (**net changes**).
 
-## XXIV. Read — the Whole Term Gathered into One
+### XXIV. Read — the Whole Term Gathered into One
 
 **Isolate.** *Read* is the act that makes a lexicon mean anything at all. Isolated, it is not the glance of the eye but the gathering of the mind: the taking-in of a whole definition — all its parts at once — so that a term is understood rather than merely spelled. In this lexicon *read* is also the eighth subterm's own name, raised here to a term in its own right, because the gathering it performs is itself a legal act.
 
@@ -581,7 +588,7 @@ Section XXV departs from this template on purpose: it is the capstone that *conc
 
 **Read.** Read as one definition: ***read*** is the gathering of a whole definition into one comprehended meaning (**isolate**); the operation that holds the separate subterms together and refuses to take a part for the whole (**define**); whose finality is understanding immune to selective quotation (**finality**); used wherever a term or instrument must be understood before it is applied (**use**); carrying the corollaries that the whole governs the part, that reading is an act and not a passive event, and that a thing unread is a thing not yet known (**corollaries**); met by the able mind as the sum of the gathered whole over the game of the convenient fragment (**response**); and moving, as a cared-for standard never used to quote a figure against their own sense, toward meanings received as given, and so toward revival over marriage, institution, cause, and renewal (**net changes**).
 
-## XXV. the Sum — What a Court, Judge, or Expert Must Train to Know
+### XXV. the Sum — What a Court, Judge, or Expert Must Train to Know
 
 Part Two defined fifteen words one at a time. This section does the opposite: it **concentrates** them, so that their *effect* is read not word by word but as a single sum. A court, a judge, or an expert does not reach a conclusion by reciting definitions in a row; they reach it by holding all fifteen at once and letting them settle into one judgment. The question this section answers is the one the request poses directly — *what must such a person train to know* for these words to be within reach of their goals, their trials, and their conditions, the way an expert is within reach of a game they have truly mastered?
 
@@ -603,3 +610,4 @@ Part Two defined fifteen words one at a time. This section does the opposite: it
 ---
 
 **Final reminder.** None of the above — Part One or Part Two — is a legal finding, a warrant, a payment, an assessment, an obligation, or legal advice. Part One is a supposition and Part Two is a lexicon: one a story, the other a study. Each borrows the vocabulary of law only to think clearly, and binds no person, office, or jurisdiction. Read it as the fable and the glossary it is, and nothing more.
+
