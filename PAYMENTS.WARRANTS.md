@@ -43,11 +43,29 @@ For this document, the **container** is the defined procedure that holds claims,
 
 **Positant F conclusion.** The account supplies a set of propositions to classify and test; it does not establish that JJ committed an offense, that Max Rupplin owned or controlled another person's body or mind, that the State of North Carolina made or failed to make any determination, or that the stated sum is owed. The lawful analytical result is therefore **undetermined on the information presented**. The useful next step is to separate each assertion into *verifiable fact, attributed claim, metaphor, or question for lawful process* before drawing any conclusion.
 
+
+### Positant G — Flora Jane Moorman: North Carolina
+
+> **Status and evidentiary boundary.** This entry records allegations and characterizations supplied for a hypothetical positant. They have not been independently verified by this document. It is not a finding of fact, a criminal charge, a professional disciplinary determination, or a statement that any allegation is contained in an official North Carolina record. Serious allegations must not be presented as established facts without reliable evidence and appropriate legal process.
+
+**Subject and proposed role.** The supplied narrative names **Flora Jane Moorman** and proposes to classify her as a “Positant Defender” in the State of North Carolina. “Positant Defender” is treated here as a term coined for this document, not as a verified public office, legal status, or professional designation.
+
+**Claims attributed to the supplied narrative.** The narrative questions whether the named person has a recognized role or standing as a defender or fiduciary; alleges conduct involving maps, laws and tariffs, state intellectual resources, and apathy toward state methods; and makes severe allegations involving homicide and harm to innocent people in Raleigh and Orange County, North Carolina. These are **unverified allegations**, not findings adopted by this document. No conclusion about criminal conduct, professional licensure, fiduciary status, or misconduct should be drawn from this summary. Any assertion that a public agency has recorded such matters requires a specific, authentic, and relevant record; the narrative alone does not establish that such a record exists.
+
+**Personhood and status.** The supplied wording also attempts to deny or diminish the named person's personhood and standing. This document does not adopt that characterization. A person’s basic dignity and personhood do not depend on their perceived “weight,” role, intellect, alleged conduct, or standing in a process. Any actual legal status must be determined under applicable law, not by a private label.
+
+**Claims about law, release, and “matter of statement.”** The narrative raises questions about the meaning of “and,” the possibility of a lawful release from jail, and whether a person could be treated as having a tacit or overriding legal status. These remain questions or metaphors unless tied to a specific statute, court record, or other reliable source. Nothing in this positant grants release, changes a name, establishes legal authority, or supersedes a court order.
+
+**Method of review.** To make this positant usable without converting allegation into verdict, each claim should be documented separately with: (1) the exact conduct alleged; (2) date and location; (3) the source and authenticity of any supporting record; (4) the relevant legal or professional standard; (5) any response, correction, or contrary evidence; and (6) the authority competent to assess it. Questions of licensure should be checked with the relevant licensing body, and allegations of crime should be referred to appropriate authorities rather than declared proven in this document.
+
+**Positant G conclusion.** On the material supplied, the allegations and legal status questions remain **unverified and undetermined**. This section records the existence of claims for careful review; it does not establish that Flora Jane Moorman committed a crime, abused a public resource, lacks a license, or has any particular legal status. No containment, penalty, debt, or restriction follows from this narrative alone.
+
 ---
 
 ## Contents
 
 - [Positants — Fall: Position, Containment, and Process](#positants--fall-position-containment-and-process)
+- [Positant G — Flora Jane Moorman: North Carolina](#positant-g--flora-jane-moorman-north-carolina)
 - [I. the Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
 - [II. the Second Supposition: "on the Cusp"](#ii-the-second-supposition-on-the-cusp)
 - [III. the Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
