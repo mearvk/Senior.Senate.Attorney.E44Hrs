@@ -5,8 +5,49 @@
 
 > **Nature of this document.** Everything written below is a **supposition** — a deliberate, hypothetical "what if" exercise authored for this project. It is **not** a legal assessment, a court order, a warrant, a tax levy, a government determination, a financial obligation, legal advice, or a statement of established fact. No person, office, institution, or jurisdiction is being named, charged, bound, or billed. Where the text says "suppose," "assume," or "imagine," it means exactly that: a premise entertained for the sake of a thought experiment, not a claim about the real world. If any sentence here reads like a factual legal or financial statement, read it instead as the continuation of the hypothesis stated in this box. The whole document is written in care of man and in good faith: it is meant to think clearly and kindly about what law is for, never to accuse, bind, or diminish any living person.
 
+## Positants — Fall: Position, Containment, and Process
+
+> **Status and evidentiary boundary.** This section records a proposed *positant*—a stated position describing where a person is said to have been, what role or condition the person is said to have occupied, and how that position relates to a process. The account below is supplied as a hypothetical narrative for analysis. It is **not verified evidence**, a finding about any person, a clinical assessment, a criminal accusation established by this document, a court order, a warrant, a debt, or an authorization to control anyone. The labels and amounts below do not create legal effect. Any real-world claim would require reliable evidence, appropriate context, and review by a competent authority.
+
+### Purpose of a positant
+
+A **positant** is a declared position within a proposed process. It records, separately: (1) the person or subject being described; (2) the place and time asserted; (3) the role, status, or condition said to have been occupied; (4) the source and evidentiary status of each assertion; (5) the process said to follow from the position; and (6) the limits, objections, and means of correction. A positant is a statement to be examined—not a verdict, a presumption of guilt, or a means of imposing containment.
+
+### Positant F — Raleigh, North Carolina; 15 September 2015
+
+**Subject label.** The narrative uses **“JJ”** as a label. This section does not independently identify that label with a real individual or verify any of the assertions associated with it.
+
+**Place and time asserted.** The account places the described situation in **Raleigh, North Carolina, on 15 September 2015**. This is a reported premise, not a verified finding about a person's location.
+
+**Status and terminology asserted.** The account characterizes JJ as already associated with convictions and moral failings, and uses the expressions **“Neignbergers Symptoms”** and **“Neignbergers-Not.”** In this document, those expressions are treated as the author's terms only; they are not accepted here as recognized diagnoses, legal categories, or proven facts. No conclusion about a person's mental state, health, culpability, or capacity follows from those labels.
+
+**Position occupied.** The narrative contrasts a person's **body**, **mind**, and asserted “Nots” (described by the author as furtherances of wrongdoing). For purposes of process design, these are separate concepts that must not be collapsed into a judgment about the whole person. A claim about conduct must be evaluated on its own evidence; a person's body, thoughts, identity, or medical condition cannot be treated as property or as proof of wrongdoing. No person may be subjected to mind-control, compelled identity change, or containment merely because a narrative assigns them a position.
+
+**Other assertions in the account.** The narrative attributes to Max Rupplin claims about accuracy, ownership, voting or “balance weight” in North Carolina, knowledge and will, and an account said to have been sealed or closed through “Acts of God XII” and “Acts of Kind Gods XIII.” It also asserts that parents were not involved, that JJ admitted nothing, that the State of North Carolina did not recall a relevant memory, that “South” represented a boundary or containment concept, and that JJ's IQ was 121. These are recorded solely as **unverified statements made in the supplied narrative**. They are not corroborated or adopted as facts by this document. An asserted IQ score does not establish guilt, consent, authority, or legal status.
+
+**Monetary figure.** The account states **$221.51 million US dollars and gain** as a bill attributed to JJ. This is recorded only as a figure appearing in the narrative. No debt, award, payment, fine, entitlement, or financial obligation is established or created here. A real financial claim would require an independently established legal basis, competent jurisdiction, supporting evidence, notice, and a meaningful opportunity to contest it.
+
+**Process question.** The question raised by this positant is whether a proposed method of “control” should instead be replaced by a clean, voluntary ceremony that preserves a person's dignity and freedom to live without being reduced to a statutory label or compelled to adopt a new name. The process standard is that any ceremony must be genuinely voluntary, transparent, reversible where appropriate, and free from coercion. A person may decline it. No symbolic account, purported balance, state boundary, or private assertion substitutes for lawful authority and due process.
+
+### Containment and container: method for relating legal processes
+
+For this document, the **container** is the defined procedure that holds claims, evidence, objections, decisions, and remedies in their proper places. **Containment** means limiting a process to its lawful scope—not confining, controlling, diagnosing, billing, or redefining a person. The proposed sequence is:
+
+1. **Position:** state the asserted place, time, role, and status, identifying what is known and what remains alleged.
+2. **Provenance:** identify the source for each factual claim and distinguish records from recollection, interpretation, metaphor, and supposition.
+3. **Authority:** identify the specific lawful authority, jurisdiction, and procedure, if any, that could permit the proposed action. Do not infer authority from this document.
+4. **Notice and response:** provide affected people a fair opportunity to understand, challenge, correct, or decline a proposal.
+5. **Proportionality and autonomy:** choose the least intrusive lawful method; do not treat thoughts, identity, health, or a person's body as something another person owns or controls.
+6. **Decision and review:** leave any actual legal determination to the competent institution, with reasons, review, and appeal as applicable.
+7. **Closure:** close a conceptual account only as a narrative or analytical exercise. A real case, public record, or financial obligation can be closed only by the applicable authorized process.
+
+**Positant F conclusion.** The account supplies a set of propositions to classify and test; it does not establish that JJ committed an offense, that Max Rupplin owned or controlled another person's body or mind, that the State of North Carolina made or failed to make any determination, or that the stated sum is owed. The lawful analytical result is therefore **undetermined on the information presented**. The useful next step is to separate each assertion into *verifiable fact, attributed claim, metaphor, or question for lawful process* before drawing any conclusion.
+
+---
+
 ## Contents
 
+- [Positants — Fall: Position, Containment, and Process](#positants--fall-position-containment-and-process)
 - [I. The Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
 - [II. The Second Supposition: "On the Cusp"](#ii-the-second-supposition-on-the-cusp)
 - [III. The Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
