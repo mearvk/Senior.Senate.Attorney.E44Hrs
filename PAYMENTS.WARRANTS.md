@@ -60,12 +60,32 @@ For this document, the **container** is the defined procedure that holds claims,
 
 **Positant G conclusion.** On the material supplied, the allegations and legal status questions remain **unverified and undetermined**. This section records the existence of claims for careful review; it does not establish that Flora Jane Moorman committed a crime, abused a public resource, lacks a license, or has any particular legal status. No containment, penalty, debt, or restriction follows from this narrative alone.
 
+
+### Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account
+
+> **Status and evidentiary boundary.** This entry records statements and interpretations supplied for a hypothetical positant. The claims below have not been independently verified. They are not findings about the named people, their family relationships, medical status, criminal history, or the actions of any county, state agency, or other institution. The narrative's unusual terms are retained as attributed language, not accepted as established facts.
+
+**Named people and family relationship.** The supplied account names **Larry Moorman** and **Lynn Moorman** as Flora Jane Moorman's children. That relationship is recorded as the account's assertion only; this document has not verified parentage or any other family relationship. The statement that they are “not known by Medical Science” is likewise an unverified characterization. It does not establish that either person is medically unrecognized, that a medical condition exists, or that any medical professional or institution has made such a determination.
+
+**“Fruit,” marriage, and repeated choice.** The narrative uses **“Fruit”** to describe an asserted process in which the will to marry is directed toward the same “Smart” each time, with children said to result. These terms are ambiguous and are preserved as the author's symbolic or conceptual vocabulary. They do not establish consent, a marriage, parentage, reproductive history, or any person's intent. Any real-world conclusion would require clear definitions and reliable, independently assessable evidence.
+
+**County meetings, aliases, and alleged omissions.** The account asserts that “Sample County Meetings” counted the named children out altogether and refers to checking for “Rifle Aliases,” alleged wrongdoing, later payment, and use of “Tax-Wife” as an alias for someone's wife. The identities and meaning of “Sample County,” “Rifle Aliases,” and “Tax-Wife” are not established here. No meeting, official count, alias, crime, debt, or evasion is verified by this text. These phrases should be treated as claims to clarify, not as proof of criminal or fraudulent conduct.
+
+**Alleged conviction and harm to children.** The supplied narrative says that Larry Moorman was “convicted of Satanism,” attributes an act of remembering to a “Lieutenant XVIII,” and says that his children “were done away with.” These are serious and ambiguous assertions. This document does not verify that any such conviction, officer, proceeding, or harm occurred, and it does not infer that any child died, disappeared, or was harmed. “Satanism” is not treated here as a verified criminal conviction or legal offense. Any claim of a conviction would require an authentic court record identifying the jurisdiction, charge, disposition, and person; any claim that a child was harmed or is missing requires reliable evidence and appropriate safeguarding or law-enforcement review.
+
+**The South Wall and ceremony.** The account describes “the South” and “the South Wall” as an account of law, associates the South Wall with a Scientologist ceremony, and says it was “disbursed by the State” or moved out of a category as a “Motion of Law.” These phrases are recorded as the narrative's symbolic interpretation. They do not establish that a ceremony occurred, that it was conducted or recognized by any religious organization, that a state agency dispersed or relocated anything, or that a legal motion was filed or decided. A legal motion and its outcome can be confirmed only through an identifiable proceeding or authentic record.
+
+**Method of review.** To examine these claims responsibly, identify the exact county or institution meant by “Sample County Meetings”; define each unusual term; separate direct observation from recollection and metaphor; verify family relationships only through lawful, appropriate records; and consult authentic court or agency records for any claimed legal event. Claims concerning children should be handled with particular care and privacy. Do not publish private medical or family details, identify a child as harmed, or accuse a named person of a crime based only on this narrative.
+
+**Positant H conclusion.** On the material supplied, the family, medical, marriage, alias, conviction, child-harm, ceremony, and legal-process assertions remain **unverified and undetermined**. This entry preserves the account for analysis without turning it into a factual allegation or legal finding. No debt, guilt, authority, restriction, or conclusion about any named person's conduct follows from the narrative alone.
+
 ---
 
 ## Contents
 
 - [Positants — Fall: Position, Containment, and Process](#positants--fall-position-containment-and-process)
 - [Positant G — Flora Jane Moorman: North Carolina](#positant-g--flora-jane-moorman-north-carolina)
+- [Positant H — Larry Moorman, Lynn Moorman, and the “South Wall” Account](#positant-h--larry-moorman-lynn-moorman-and-the-south-wall-account)
 - [I. the Cascade, Stated Plainly](#i-the-cascade-stated-plainly)
 - [II. the Second Supposition: "on the Cusp"](#ii-the-second-supposition-on-the-cusp)
 - [III. the Supposed Figure: $600,000,000 per Second per Month](#iii-the-supposed-figure-600000000-per-second-per-month)
